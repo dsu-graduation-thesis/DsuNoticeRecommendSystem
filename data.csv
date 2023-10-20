@@ -1,0 +1,1231 @@
+id,title,date,genres,keyword1,keyword2,keyword3,keyword4,keyword5,link,profile
+1,"[전체, 강의평가] 중간강의평가(1차, 10/13~10/19) 실시 안내(2023-2학기)",2023-10-11,학사,수업,관리,강화,학기,부터,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=1&mode=view&idx=93565,
+2,[전체] 2023-2 학생선택형P/N 신청 안내,2023-10-06,학사,학생,선택,신청,다음,공지,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=1&mode=view&idx=93550,
+3,[전체] 2023-2 중간고사 안내,2023-10-06,학사,학기,중간고사,실시,아래,안내,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=1&mode=view&idx=93534,
+4,[전체] 10월2일 임시공휴일 지정에 따른 휴보강안내,2023-09-21,학사,추석,연휴,임시,공휴일,지정,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=1&mode=view&idx=93429,
+5,2023학년도 동계 계절학기 시행 안내,2023-10-13,학사,학년,동계,계절,학기,다음,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=1&mode=view&idx=93608,
+6,2023-2학기 폐지과목 성적삭제 신청 공고,2023-10-06,학사,학기,폐지,과목,성적,삭제신청,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=1&mode=view&idx=93532,
+7,2023-2학기 학점포기 신청 공고,2023-10-06,학사,학기,학점,포기,신청,공고,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=1&mode=view&idx=93530,
+8,"2023학년도 2학기 졸업시험(영어,컴퓨터) 대체 프로그램 안내",2023-09-14,학사,학년,학기,졸업,시험,영어,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=1&mode=view&idx=93335,
+9,[전체] 2023-2 2차 폐강 및 합반 강좌,2023-09-11,학사,학기,폐강,및합반강좌,알림,학기,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=1&mode=view&idx=93295,
+10,[전체]2023-2학기 K-MOOC 학점(일반선택학점 인정) 신청 공고,2023-09-05,학사,학기,학점,일반,선택,학점,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=1&mode=view&idx=93218,
+11,[전체]2023-2학기 군복무 중 취득학점 인정 신청 공고,2023-09-05,학사,학기,군복무,취득,학점,인정,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=1&mode=view&idx=93217,
+12,2023-2학기 CBT 운영 안내,2023-09-01,학사,외국어,교육,학년,학기,운영,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=1&mode=view&idx=93185,
+13,"[전체,등록] 2023-2학기 등록금 추가 납부 안내",2023-08-28,학사,학기,등록금,추가,납부,안내,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=1&mode=view&idx=93122,
+14,2023학년도 2학기 유고결석계 및 취업계 신청 안내,2023-08-28,학사,학년,학기,유고,결석,취업,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=1&mode=view&idx=93120,
+15,2023-2 부산디지털대학교 강좌 수강안내,2023-08-25,학사,부산,디지털,대학교,진행,강좌,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=1&mode=view&idx=93112,
+16,"[전체, 강의평가] 중간강의평가(1차, 10/13~10/19) 실시 안내(2023-2학기)",2023-10-11,학사,수업,관리,강화,학기,부터,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=2&mode=view&idx=93565,
+17,[전체] 2023-2 학생선택형P/N 신청 안내,2023-10-06,학사,학생,선택,신청,다음,공지,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=2&mode=view&idx=93550,
+18,[전체] 2023-2 중간고사 안내,2023-10-06,학사,학기,중간고사,실시,아래,안내,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=2&mode=view&idx=93534,
+19,[전체] 10월2일 임시공휴일 지정에 따른 휴보강안내,2023-09-21,학사,추석,연휴,임시,공휴일,지정,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=2&mode=view&idx=93429,
+20,2023-2 OCU컨소시엄 강좌 수강안내,2023-08-25,학사,한국,사이버,대학교,운영,컨소시엄,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=2&mode=view&idx=93111,
+21,[전체] 2023-2 1차 폐강 및 합반강좌 안내,2023-08-25,학사,학기,폐강,및합반강좌,첨부파일,공고,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=2&mode=view&idx=93109,
+22,2023-2학기 취업연계실무 교과목 신청 안내(기간재연장),2023-08-14,학사,취업,실무,교과목,신청,안내,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=2&mode=view&idx=93041,
+23,"[전체,등록] 2023-2학기 등록금 납부 안내",2023-08-10,학사,학기,등록금,납부,안내,학년,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=2&mode=view&idx=93024,
+24,[전체] 2023-2 수강신청 안내,2023-08-04,학사,학기,수강신청,정구,예비,수강신청,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=2&mode=view&idx=92988,
+25,2023-2학기 [자기주도경험학습]교과목 운영 신청 안내 (기간연장),2023-07-27,학사,학기,자기,주도,경험,학습,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=2&mode=view&idx=92976,
+26,"[전체, 집중휴가] 2023년 하계 집중휴가 안내",2023-07-21,학사,집중,휴가,기간,업무,진행,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=2&mode=view&idx=92936,
+27,2023학년도 2학기 21학점 신청 안내 공고,2023-07-18,학사,학년,학기,학점,추가,신청,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=2&mode=view&idx=92906,
+28,[전체] 2023-2학기 복학대상자 복학신청 공고,2023-07-13,학사,학기,복학,대상자,복학,신청,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=2&mode=view&idx=92881,
+29,2023-2학기 자기주도경험학습 교과목 운영 신청 안내,2023-07-11,학사,학기,자기,주도,경험,학습,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=2&mode=view&idx=92867,
+30,"[계절학기 수강생, 강의평가] 2023년 하계 계절학기 강의평가 실시 안내",2023-07-05,학사,강의,평가,수업,하나,방법,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=2&mode=view&idx=92838,
+31,"[전체, 근무시간]하계방학 중 근무시간 조정 안내",2023-06-30,학사,방학,근무시간,조정,안내,학년,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=2&mode=view&idx=92814,
+32,"[졸업]2023학년도 1학기 졸업시험(영어,컴퓨터) 대체 프로그램 안내(추가)",2023-06-28,학사,학년,학기,졸업,시험,영어,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=2&mode=view&idx=92797,
+33,[전체] 2023-2학기 부전공/복수전공 신청공고,2023-06-27,학사,기부,전공,복수,신청,아래,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=2&mode=view&idx=92783,
+34,[졸업] 2023-2학기 학사학위취득유예(졸업유예) 신청 공고,2023-06-21,학사,학년,학기,졸업,예정자,학사,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=2&mode=view&idx=92751,
+35,"[전체, 강의평가] 중간강의평가(1차, 10/13~10/19) 실시 안내(2023-2학기)",2023-10-11,학사,수업,관리,강화,학기,부터,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=3&mode=view&idx=93565,
+36,[전체] 2023-2 학생선택형P/N 신청 안내,2023-10-06,학사,학생,선택,신청,다음,공지,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=3&mode=view&idx=93550,
+37,[전체] 2023-2 중간고사 안내,2023-10-06,학사,학기,중간고사,실시,아래,안내,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=3&mode=view&idx=93534,
+38,[전체] 10월2일 임시공휴일 지정에 따른 휴보강안내,2023-09-21,학사,추석,연휴,임시,공휴일,지정,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=3&mode=view&idx=93429,
+39,[전체] 2023-1 성적 열람 안내,2023-06-20,학사,성적,열람,방법,안내,학년,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=3&mode=view&idx=92744,
+40,2023-2학기 조기졸업 신청 공고,2023-06-16,학사,학기,조기졸업,신청,공고,학년,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=3&mode=view&idx=92718,
+41,2023-2학기 취업연계실무 교과목 신청 안내(기간연장),2023-06-16,학사,취업,실무,교과목,신청,안내,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=3&mode=view&idx=92716,
+42,[전체] 2023-2학기 전과 모집 공고,2023-06-14,학사,학기,전과,모집,아래,공고,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=3&mode=view&idx=92700,
+43,2023-2학기 재입학 모집 공고,2023-06-13,학사,학기,입학,아래,공고,아래,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=3&mode=view&idx=92687,
+44,2023-2학기 미등록 휴학기간 공고,2023-06-12,학사,학기,미등록,휴학,기간,공고,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=3&mode=view&idx=92684,
+45,"[전체, 강의평가] 기말 강의평가(6/15~6/29) 실시 안내(2023-1학기)",2023-06-07,학사,학년,학기,강의,평가,실시,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=3&mode=view&idx=92639,
+46,"2023 하계 계절학기 폐강과목 공지 및 현금등록, 환불신청안내",2023-06-01,학사,학년,도하,계절,학기,폐강,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=3&mode=view&idx=92614,
+47,[전체] 2023-1학기 기말고사 안내,2023-06-01,학사,학기,기말고사,아래,안내,아래,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=3&mode=view&idx=92610,
+48,2023-1학기 학점(성적)유예제 신청 공고,2023-05-08,학사,학기,학점,성적,유예,신청,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=3&mode=view&idx=92425,
+49,"[전체, 강의평가] 중간강의평가(2차, 5/11~5/17) 실시 안내(2023-1학기)",2023-05-04,학사,수업,관리,강화,학기,부터,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=3&mode=view&idx=92421,
+50,2023학년도 타대학(부산외국어대학교) 하계 계절학기 수강 안내,2023-05-04,학사,학년,대학,계절,학기,수강,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=3&mode=view&idx=92419,
+51,[전체] 5월29일(월) 대체공휴일 지정에 따른 휴보강 안내,2023-05-02,학사,석가탄신일,대체공휴일,지정,해당,일자,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=3&mode=view&idx=92404,
+52,[전체]근로자의 날(5/1) 휴업 안내,2023-04-28,학사,근로자의날,휴업,보강,일정,확인,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=3&mode=view&idx=92382,
+53,2023학년도 타대학(동아대학교) 하계 계절학기 수강 안내,2023-04-28,학사,학년,대학,계절,학기,수강,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=3&mode=view&idx=92378,
+54,"[전체, 강의평가] 중간강의평가(1차, 10/13~10/19) 실시 안내(2023-2학기)",2023-10-11,학사,수업,관리,강화,학기,부터,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=4&mode=view&idx=93565,
+55,[전체] 2023-2 학생선택형P/N 신청 안내,2023-10-06,학사,학생,선택,신청,다음,공지,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=4&mode=view&idx=93550,
+56,[전체] 2023-2 중간고사 안내,2023-10-06,학사,학기,중간고사,실시,아래,안내,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=4&mode=view&idx=93534,
+57,[전체] 10월2일 임시공휴일 지정에 따른 휴보강안내,2023-09-21,학사,추석,연휴,임시,공휴일,지정,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=4&mode=view&idx=93429,
+58,2023학년도 타대학(동의대학교) 하계 계절학기 수강 안내,2023-04-26,학사,학년,대학,계절,학기,수강,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=4&mode=view&idx=92370,
+59,2023학년도 타대학(부경대학교) 하계 계절학기 수강 안내,2023-04-25,학사,학년,대학,계절,학기,수강,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=4&mode=view&idx=92361,
+60,2023학년도 타대학(경상국립대학교) 하계 계절학기 수강 안내,2023-04-24,학사,학년,대학,계절,학기,수강,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=4&mode=view&idx=92344,
+61,2023학년도 타대학(한국해양대학교) 하계 계절학기 수강 안내,2023-04-24,학사,학년,대학,계절,학기,수강,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=4&mode=view&idx=92342,
+62,2023학년도 타대학(경성대학교) 하계 계절학기 수강 안내,2023-04-24,학사,학년,대학,계절,학기,수강,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=4&mode=view&idx=92332,
+63,2023학년도 타대학(부산대학교) 하계 계절학기 수강 안내,2023-04-20,학사,학년,대학,계절,학기,수강,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=4&mode=view&idx=92308,
+64,2023 하계 계절학기 시행 안내,2023-04-18,학사,학년,도하,계절,학기,다음,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=4&mode=view&idx=92286,
+65,[전체] 2023-1학기 학생선택형 P/N 신청안내,2023-04-11,학사,학생,선택,신청,다음,공지,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=4&mode=view&idx=92232,
+66,[전체] 2023-1학기 중간고사 안내,2023-04-10,학사,학기,중간고사,실시,아래,안내,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=4&mode=view&idx=92223,
+67,"[전체, 강의평가] 중간강의평가(1차, 4/13~4/19) 실시 안내(2023-1학기)",2023-04-05,학사,수업,관리,강화,학기,부터,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=4&mode=view&idx=92194,
+68,"[졸업]2023학년도 1학기 졸업시험(영어,컴퓨터) 대체 프로그램 안내",2023-03-31,학사,학년,학기,졸업,시험,영어,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=4&mode=view&idx=92166,
+69,2023-1학기 학점포기 신청 공고,2023-03-23,학사,학기,학점,포기,신청,공고,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=4&mode=view&idx=92097,
+70,[전체]2023-1학기 군복무 중 취득학점 인정 신청 공고,2023-03-13,학사,학기,군복무,취득,학점,인정,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=4&mode=view&idx=91918,
+71,[전체] 2023-1학기 K-MOOC 학점(일반선택학점 인정) 신청 공고,2023-03-13,학사,학기,학점,일반,선택,학점,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=4&mode=view&idx=91917,
+72,2023-1학기 CBT 운영 안내,2023-03-13,학사,주의,사항,시험,당일,시험,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=4&mode=view&idx=91926,
+73,"[전체, 강의평가] 중간강의평가(1차, 10/13~10/19) 실시 안내(2023-2학기)",2023-10-11,학사,수업,관리,강화,학기,부터,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=5&mode=view&idx=93565,
+74,[전체] 2023-2 학생선택형P/N 신청 안내,2023-10-06,학사,학생,선택,신청,다음,공지,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=5&mode=view&idx=93550,
+75,[전체] 2023-2 중간고사 안내,2023-10-06,학사,학기,중간고사,실시,아래,안내,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=5&mode=view&idx=93534,
+76,[전체] 10월2일 임시공휴일 지정에 따른 휴보강안내,2023-09-21,학사,추석,연휴,임시,공휴일,지정,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=5&mode=view&idx=93429,
+77,[전체] 2023-1 2차 폐강 및 합반,2023-03-10,학사,학기,폐강,및합반강좌,알림,학기,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=5&mode=view&idx=91910,
+78,자기주도경험학습 교과목 안내 – 멀티캠퍼스 연계,2023-02-24,학사,경험,학습,교과목,안내,멀티,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=5&mode=view&idx=91814,
+79,"[전체,등록] 2023-1학기 등록금 추가 납부 안내",2023-02-23,학사,학기,등록금,추가,납부,안내,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=5&mode=view&idx=91797,
+80,2023학년도 1학기 유고결석 및 취업계 신청 안내,2023-02-17,학사,학년,학기,유고,결석,취업,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=5&mode=view&idx=91733,
+81,[전체] 2023-1 1차 폐강 및 합반강좌(교양),2023-02-17,학사,학기,폐강,및합반강좌,교양,첨부파일,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=5&mode=view&idx=91730,
+82,[전체] 2023-1 1차 폐강 및 합반강좌(전공),2023-02-16,학사,학기,폐강,및합반강좌,전공,첨부파일,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=5&mode=view&idx=91704,
+83,[전체] 2023-1 수업운영 안내,2023-02-15,학사,우리,대학,실내,마스크,착용,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=5&mode=view&idx=91701,
+84,2023학년도 신입생 중 학부 모집 입학자 학과(전공) 선택안내,2023-02-14,학사,동서대학교,입학,환영,학년,신입생,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=5&mode=view&idx=91692,
+85,"[전체,등록] 2023-1학기 등록금 납부 안내",2023-02-09,학사,학기,등록금,납부,안내,학년,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=5&mode=view&idx=91647,
+86,2023-1학기 [자기주도경험학습]교과목 운영 신청 안내(멀티캠퍼스 연계),2023-02-08,학사,경험,학습,교과목,안내,멀티,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=5&mode=view&idx=91632,
+87,2023-1학기 교양교과목 추가 개설 및 개설 취소 안내,2023-02-07,학사,학기,교양,교과목,추가,개설,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=5&mode=view&idx=91625,
+88,[전체] 2023-1 부산디지털대학교 온라인강좌 수강안내,2023-02-06,학사,부산,디지털,대학교,진행,사이버,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=5&mode=view&idx=91606,
+89,2023-1 신입생/편입생 수강신청 안내,2023-02-03,학사,학년,학기,신입생,편입,수강신청,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=5&mode=view&idx=91603,
+90,[전체] 2023-1 OCU 컨소시엄 강좌 수강안내,2023-01-31,학사,한국,사이버,대학교,운영,컨소시엄,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=5&mode=view&idx=91569,
+91,[전체] 2023-1 수강신청 안내,2023-01-26,학사,구분,예비,수강신청,수강신청,강정,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=5&mode=view&idx=91537,
+92,"[전체, 강의평가] 중간강의평가(1차, 10/13~10/19) 실시 안내(2023-2학기)",2023-10-11,학사,수업,관리,강화,학기,부터,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=6&mode=view&idx=93565,
+93,[전체] 2023-2 학생선택형P/N 신청 안내,2023-10-06,학사,학생,선택,신청,다음,공지,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=6&mode=view&idx=93550,
+94,[전체] 2023-2 중간고사 안내,2023-10-06,학사,학기,중간고사,실시,아래,안내,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=6&mode=view&idx=93534,
+95,[전체] 10월2일 임시공휴일 지정에 따른 휴보강안내,2023-09-21,학사,추석,연휴,임시,공휴일,지정,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=6&mode=view&idx=93429,
+96,[전체] 수강신청시스템 테스트 안내,2023-01-20,학사,학년,개편,수강신청,시스템,학생,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=6&mode=view&idx=91499,
+97,2023-1학기 [자기주도경험학습]교과목 운영 신청 안내(학생 설계 부분),2023-01-19,학사,학기,자기,주도,경험,학습,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=6&mode=view&idx=91498,
+98,[졸업]2023-1학기 학사학위취득유예(졸업유예) 신청 공고,2023-01-16,학사,학년,학기,졸업,예정자,학사,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=6&mode=view&idx=91449,
+99,"[졸업]2022학년도 2학기 졸업시험(영어,컴퓨터) 대체 프로그램 안내(추가)",2023-01-16,학사,학년,학기,졸업,시험,영어,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=6&mode=view&idx=91275,
+100,[전체/등록]2022학년도 연말정산용 교육비납입증명서 발급 안내,2023-01-12,학사,학년,연말정산,교육비,입증,발급,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=6&mode=view&idx=91421,
+101,2023학년도 1학기 21학점 신청 안내 공고,2023-01-11,학사,학년,학기,학점,추가,신청,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=6&mode=view&idx=91412,
+102,"[계절학기 수강생, 강의평가] 2022년 동계 계절학기 강의평가 실시 안내",2023-01-04,학사,강의,평가,수업,하나,방법,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=6&mode=view&idx=91367,
+103,[전체]2023-1학기 복학대상자 복학신청 공고,2023-01-04,학사,학기,복학,대상자,복학,신청,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=6&mode=view&idx=91360,
+104,2023-1학기 부전공/복수전공 신청공고,2023-01-02,학사,기부,전공,복수,신청,아래,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=6&mode=view&idx=91345,
+105,"[전체, 강의평가] 중간강의평가(1차, 10/13~10/19) 실시 안내(2023-2학기)",2023-10-11,학사,수업,관리,강화,학기,부터,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=7&mode=view&idx=93565,
+106,[전체] 2023-2 학생선택형P/N 신청 안내,2023-10-06,학사,학생,선택,신청,다음,공지,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=7&mode=view&idx=93550,
+107,[전체] 2023-2 중간고사 안내,2023-10-06,학사,학기,중간고사,실시,아래,안내,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=7&mode=view&idx=93534,
+108,[전체] 10월2일 임시공휴일 지정에 따른 휴보강안내,2023-09-21,학사,추석,연휴,임시,공휴일,지정,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=7&mode=view&idx=93429,
+109,"[전체, 강의평가] 중간강의평가(1차, 10/13~10/19) 실시 안내(2023-2학기)",2023-10-11,학사,수업,관리,강화,학기,부터,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=8&mode=view&idx=93565,
+110,[전체] 2023-2 학생선택형P/N 신청 안내,2023-10-06,학사,학생,선택,신청,다음,공지,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=8&mode=view&idx=93550,
+111,[전체] 2023-2 중간고사 안내,2023-10-06,학사,학기,중간고사,실시,아래,안내,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=8&mode=view&idx=93534,
+112,[전체] 10월2일 임시공휴일 지정에 따른 휴보강안내,2023-09-21,학사,추석,연휴,임시,공휴일,지정,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=8&mode=view&idx=93429,
+113,"[전체, 강의평가] 중간강의평가(1차, 10/13~10/19) 실시 안내(2023-2학기)",2023-10-11,학사,수업,관리,강화,학기,부터,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=9&mode=view&idx=93565,
+114,[전체] 2023-2 학생선택형P/N 신청 안내,2023-10-06,학사,학생,선택,신청,다음,공지,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=9&mode=view&idx=93550,
+115,[전체] 2023-2 중간고사 안내,2023-10-06,학사,학기,중간고사,실시,아래,안내,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=9&mode=view&idx=93534,
+116,[전체] 10월2일 임시공휴일 지정에 따른 휴보강안내,2023-09-21,학사,추석,연휴,임시,공휴일,지정,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=9&mode=view&idx=93429,
+117,"[전체, 강의평가] 중간강의평가(1차, 10/13~10/19) 실시 안내(2023-2학기)",2023-10-11,학사,수업,관리,강화,학기,부터,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=10&mode=view&idx=93565,
+118,[전체] 2023-2 학생선택형P/N 신청 안내,2023-10-06,학사,학생,선택,신청,다음,공지,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=10&mode=view&idx=93550,
+119,[전체] 2023-2 중간고사 안내,2023-10-06,학사,학기,중간고사,실시,아래,안내,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=10&mode=view&idx=93534,
+120,[전체] 10월2일 임시공휴일 지정에 따른 휴보강안내,2023-09-21,학사,추석,연휴,임시,공휴일,지정,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000194&pg=10&mode=view&idx=93429,
+121,중간고사기간 스튜던트플라자 24시간 개방 안내,2023-10-13,공지/행사,중간고사,기간,스튜,던트,플라자,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=1&mode=view&idx=93610,
+122,디자인대학 석좌교수 이코 밀리오레와 밀라노 영디자이너의 글로벌 디자인 특강,2023-10-13,공지/행사,동서대학교,디자인,대학,석좌교수,밀리오레,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=1&mode=view&idx=93599,
+123,[한국대학교육협의회] 2023년 대학생 취업인식도 설문조사 (~10/27),2023-10-10,공지/행사,한국,대학교육,협의,국경,제인,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=1&mode=view&idx=93553,
+124,총학생회 천원의 아침 행사,2023-10-06,공지/행사,총학생회,천원,아침,행사,기간,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=1&mode=view&idx=93539,
+125,동서대학교 디자인대학 디지털미디어디자인전공 졸업전시회 [돌파구:EXIT] 개최 안내,2023-10-06,공지/행사,동서대학교,디자인,대학,디지털,미디어,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=1&mode=view&idx=93537,
+126,[민석도서관] 음악감상회 - 라흐마니노프 심포닉 댄스,2023-10-04,공지/행사,음악,감상,회안,주제,라흐마니노프,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=1&mode=view&idx=93513,
+127,[학생생활상담센터]10월 심리검사 실시 안내,2023-09-25,공지/행사,,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=1&mode=view&idx=93473,
+128,[4~5학년 대상] 2023-2학기 맞춤형 취업지원을 위한 진로 및 취업 준비도 설문 조사 실시 안내,2023-09-22,공지/행사,학생,취업,학년,대상,맞춤,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=1&mode=view&idx=93447,
+129,[경상국립대학교] 2023년 인권·성평등 공모전 안내,2023-09-20,공지/행사,,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=1&mode=view&idx=93424,
+130,제24회 건축학과 졸업작품전 개최,2023-09-19,공지/행사,주제,부산,지역,사회,역사,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=1&mode=view&idx=93417,
+131,<2023년 소중한 스마일리지 장학금 신청 안내>,2023-09-19,공지/행사,대상,중심,대학,사업,프로그램,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=1&mode=view&idx=93414,
+132,2023학년도 재학생 마음건강진단검사 실시 안내,2023-09-19,공지/행사,재학생,아래,안내,심리검사,실시,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=1&mode=view&idx=93413,
+133,Q College 2023 GELS RoadShow 개최(★사전신청자 100명 아메리카노 증정),2023-09-18,공지/행사,동서대학교,로드,개최,행사,로드,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=1&mode=view&idx=93396,
+134,2023년 2학기 9월 창업릴레이 특강,2023-09-18,공지/행사,일시,장소,강민구,매니저,부산,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=1&mode=view&idx=93385,
+135,"[민석도서관] ""내가보고싶은책"" 운영 안내",2023-09-18,공지/행사,가보,운영,안내,운영,기간,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=1&mode=view&idx=93384,
+136,"""Q College 9월 도전 특강"" 참여자 모집안내",2023-09-14,공지/행사,부캐,양성,도전,스쿨,칼리지,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=1&mode=view&idx=93340,
+137,[부산광역정신건강복지센터]2023년 3차 정신질환 인식개선 캠페인,2023-09-14,공지/행사,캠페인,참여,링크,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=1&mode=view&idx=93338,
+138,"[민석도서관] 특강‘사람책 읽기’- AI시대, 인문학 어디로 가나",2023-09-14,공지/행사,특강,사람,안내,주제,시대,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=1&mode=view&idx=93333,
+139,"[학생생활상담센터]진로설계 집단상담 ""진로스타트라인:출발점을 찾아""",2023-09-14,공지/행사,학생,상담,센터,참가,신청,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=1&mode=view&idx=93325,
+140,"[학생생활상담센터]사회성 훈련 집단상담 ""Think&Talk""",2023-09-14,공지/행사,학생,상담,센터,참가,신청,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=1&mode=view&idx=93324,
+141,2023 연구실 안전 콘텐츠 공모전 실시,2023-09-12,공지/행사,우리,대학,구성원,연구실,안전,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=2&mode=view&idx=93304,
+142,솔루션데스크 이용안내,2023-09-11,공지/행사,솔루션,데스크,학우,여러분,맞춤,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=2&mode=view&idx=93290,
+143,2023-2 ENGLISH HELP DESK 운영 안내문,2023-09-07,공지/행사,센텀,캠퍼스,경우,교수,성함,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=2&mode=view&idx=93250,
+144,[민석도서관] 음악감상회 - 클래식 음악 좋아하시나요?,2023-09-07,공지/행사,음악,감상,회안,주제,클래식,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=2&mode=view&idx=93244,
+145,2023년 대학도서관 이용자 만족도조사 안내,2023-09-07,공지/행사,아래,링크,클릭,거나,이미지,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=2&mode=view&idx=93242,
+146,"학부교육 실태조사(K-NSSE) [★학습포인트 1점 및 100명 기프티콘 증정](재학생 대상, ~10/13)",2023-09-05,공지/행사,아래,링크,클릭,이미지,코드,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=2&mode=view&idx=93225,
+147,[해외취업지원팀] Vol.4 K-Move News Letter,2023-09-05,공지/행사,,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=2&mode=view&idx=93223,
+148,[동래구정신건강복지센터]정신건강강좌 안내'슬기로운 성인ADHD 생활',2023-09-04,공지/행사,동래구,정신건강,복지,센터,성인,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=2&mode=view&idx=93214,
+149,신학기 출판물 불법복제 예방 캠페인,2023-09-04,공지/행사,문화,체육관,광부,대학,가신,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=2&mode=view&idx=93208,
+150,부산광역시인권센터 「인권작품 공모전」 안내,2023-09-04,공지/행사,,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=2&mode=view&idx=93207,
+151,부산광역시 거점형 양성평등센터 「청년 토크 콘서트」 개최 안내,2023-09-04,공지/행사,,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=2&mode=view&idx=93206,
+152,2023-2학기 자기주도형 경험학습 성과확산 워크숍 안내,2023-09-01,공지/행사,자기,주도,경험,학습,확산,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=2&mode=view&idx=93184,
+153,[민석도서관] 2023-2학기 민석도서관 영화상영 프로그램 안내,2023-08-31,공지/행사,,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=2&mode=view&idx=93183,
+154,[전체] 2학기 동서대학교 K-MOOC 개강 및 수강안내,2023-08-31,공지/행사,동서대학교,학년,학기,한국,온라인,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=2&mode=view&idx=93175,
+155,[전체] 2학기 K-MOOC 일반선택학점 안내,2023-08-31,공지/행사,강인원,제한,사람,이수강,기반,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=2&mode=view&idx=93174,
+156,[학생생활상담센터] 9월 심리검사 일정안내,2023-08-31,공지/행사,,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=2&mode=view&idx=93162,
+157,[학생생활상담센터]학습전략지원 심리검사 자율실시 안내,2023-08-31,공지/행사,학생,생활,상담,센터,동서대학교,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=2&mode=view&idx=93161,
+158,"★(재학생 대상, ~9/15) 대학 교수학습 혁신에 관한 설문조사 [★학습포인트 1점 및 100명 기프티콘 증정]",2023-08-29,공지/행사,학습,포인트,점및,기프티콘,증정,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=2&mode=view&idx=93132,
+159,[민석도서관] 2023-2학기 민석도서관 문화예술 프로그램 안내,2023-08-29,공지/행사,,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=2&mode=view&idx=93129,
+160,[멀티캠퍼스] 9월 K-디지털트레이닝 국비지원교육 일정안내,2023-08-29,공지/행사,멀티,캠퍼스,디지털,트레이닝,국비,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=2&mode=view&idx=93126,
+161,2023학년도 동서GAP! 리스타터 설명회,2023-08-25,공지/행사,목적,편입,복학생,입학생,학업,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=3&mode=view&idx=93114,
+162,멀티캠퍼스_백엔드 개발자 취업 캠프(Java) 모집 설명회,2023-08-23,공지/행사,멀티,캠퍼스,백엔드,개발자,취업,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=3&mode=view&idx=93104,
+163,총학생회 천원의 아침 행사,2023-08-23,공지/행사,총학생회,천원,아침,행사,기간,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=3&mode=view&idx=93100,
+164,[교수학습개발센터] 2023-1학기 BDAD 학습공동체 우수팀 심사 결과 발표,2023-08-21,공지/행사,학년,학기,학습,공동체,우수,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=3&mode=view&idx=93090,
+165,동서대 모바일 학생증 발급 행사,2023-08-17,공지/행사,학기,맞이,캠퍼스,이벤트,캠퍼스,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=3&mode=view&idx=93071,
+166,2023-1학기 우수강의교원 공지,2023-08-16,공지/행사,학기,전임,교원,과대,전임,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=3&mode=view&idx=93063,
+167,민방공 대피훈련 계획,2023-08-14,공지/행사,동서대학교,민방위대,민방공,대피훈련,계획,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=3&mode=view&idx=93049,
+168,사회봉사2 수강학생 필독 [2023 2학기 사회봉사2 공지사항],2023-08-11,공지/행사,사회,봉사,안내,사회,봉사,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=3&mode=view&idx=93030,
+169,[민석도서관] 2023-1학기 독서클럽 수상팀 안내,2023-08-09,공지/행사,학기,독서,클럽,참여,감사,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=3&mode=view&idx=93004,
+170,「8월 졸업대상자 학위복 대여 안내」,2023-08-07,공지/행사,대여,날짜,대여,반납,장소,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=3&mode=view&idx=92993,
+171,민방공 대피훈련 안내 및 상황별 대처요령,2023-07-28,공지/행사,국민,참가,민방공,대피훈련,계획,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=3&mode=view&idx=92980,
+172,23년도 2학기 복학(편입)생 학생예비군 신고 안내,2023-07-28,공지/행사,학기,복학,편입,학생,예비군,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=3&mode=view&idx=92977,
+173,'2023 장애인미디어축제' 개최 안내 / 2023.8.7(월)~8.11(금) (5일간),2023-07-27,공지/행사,,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=3&mode=view&idx=92964,
+174,[교수학습개발센터] 온라인 학습전략특강 '대학생을 위한 기초학습법 시리즈' 신청 안내,2023-07-24,공지/행사,바로가기,클릭,온라인,특강,이수,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=3&mode=view&idx=92940,
+175,[교수학습개발센터] 2023-1학기 다시듣고싶은 강의에세이 공모전 심사 결과 발표,2023-07-21,공지/행사,학기,다시,강의,에세이,공모전,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=3&mode=view&idx=92926,
+176,"""동서대 미콘 - Open Campus Day"" 여러분 초대합니다!",2023-07-20,공지/행사,대미,여러분,초대,날짜,시간,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=3&mode=view&idx=92923,
+177,[전체] 2023학년도 1학기 학습포인트 장학금 신청안내,2023-07-11,공지/행사,학기,학습,포인트,장학금,신청,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=3&mode=view&idx=92869,
+178,"대학생 소비자피해예방 -헬스장,PT이용시-",2023-06-27,공지/행사,,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=3&mode=view&idx=92790,
+179,대학생 소비자피해예방 -해외항공권 및 국제거래시-,2023-06-27,공지/행사,,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=3&mode=view&idx=92789,
+180,2023-1학기 창의적생활코딩 우수개발공모전 결과 발표,2023-06-26,공지/행사,수상,축하,수상자,문자,시상식,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=3&mode=view&idx=92782,
+181,"디자인대학 석좌교수 이코 밀리오레, ‘LIVING PATTERNS’전시회 및 특강",2023-06-21,공지/행사,부산,디자인,초청,동서대학교,디자인,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=4&mode=view&idx=92753,
+182,[부산광역정신건강복지센터] 2023년 2차 정신질환 인식개선 캠페인 '하나의 시선으로 바라보는 것이 존중입니다.,2023-06-15,공지/행사,이벤트,참여,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=4&mode=view&idx=92715,
+183,[4~5학년 대상] 맞춤형 취업지원을 위한 진로 및 취업 준비도 설문 조사 실시 안내,2023-06-15,공지/행사,학생,취업,학년,대상,맞춤,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=4&mode=view&idx=92713,
+184,제28회 동서디자인미술실기대회 수상자 발표,2023-06-12,공지/행사,입상,검색,페이,익스플로러,지원,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=4&mode=view&idx=92676,
+185,제28회 동서디자인미술실기대회 수상자 발표 안내,2023-06-09,공지/행사,동서대학교,홈페이지,공지,예정,문의,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=4&mode=view&idx=92663,
+186,2023학년도 1학기 학습포인트 장학 운영 및 개별활동 등록 안내,2023-06-08,공지/행사,학년,학기,학습,포인트,장학,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=4&mode=view&idx=92648,
+187,2023학년도 신입생/재학생 실태조사 안내(6.8~6.30),2023-06-08,공지/행사,학년,신입생,재학생,실태,조사,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=4&mode=view&idx=92644,
+188,너울이 당신의 첫끼를 책임질게요 (천원의 아침_총학생회),2023-06-02,공지/행사,천원,아침,너울,당신,기간,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=4&mode=view&idx=92616,
+189,[전체] 2023학년도 06월 비교과 프로그램 안내,2023-05-31,공지/행사,학년,역량,프로그램,신청,기간,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=4&mode=view&idx=92604,
+190,[여대생커리어개발센터] 글로벌 여성 리더와 함께 하는 토크쇼 : “빛나는 여성 리더를 만나다”  안내,2023-05-25,공지/행사,글로벌,리더,토크쇼,여성,리더,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=4&mode=view&idx=92567,
+191,[민석도서관] 음악감상회 - 라흐마니노프 오페라 ‘인색한 기사’,2023-05-25,공지/행사,음악,감상,회안,주제,라흐마니노프,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=4&mode=view&idx=92562,
+192,2023년 학부모 초청 총장 간담회 및 학과 교수 진로 면담,2023-05-24,공지/행사,,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=4&mode=view&idx=92556,
+193,2023학년도 1학년 NEO성격검사 결과 확인 및 해석 안내,2023-05-23,공지/행사,확인,링크,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=4&mode=view&idx=92546,
+194,[민석도서관] 미술산책 - 질감에 대한 고민,2023-05-16,공지/행사,미술,산책,민석,도서관,미술,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=4&mode=view&idx=92485,
+195,안전캠퍼스 실태조사에 참여해주세요.,2023-05-11,공지/행사,재학생,참여,실태,조사,링크,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=4&mode=view&idx=92459,
+196,2023년 전공박람회 관련 온라인(게더타운) 참여 안내,2023-05-11,공지/행사,신입생,재학생,관심,전공,탐색,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=4&mode=view&idx=92452,
+197,2023년 연구실 안전 대국민 공모전 공고,2023-05-08,공지/행사,과학기술,정보통신부,고제,개최,오니,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=4&mode=view&idx=92424,
+198,제414차 민방위의 날 훈련 대국민 안내 영상,2023-05-03,공지/행사,민방위,훈련,교육,자료,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=4&mode=view&idx=92407,
+199,2023년 동서대학교 전공박람회 개최 안내,2023-05-02,공지/행사,,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=4&mode=view&idx=92393,
+200,[전체] 2023학년도 05월 비교과 프로그램 안내,2023-05-02,공지/행사,학년,역량,프로그램,신청,기간,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=4&mode=view&idx=92391,
+201,2023 부산혁신도시 공공기관 지역인재 합동 채용 설명회 안내,2023-05-02,공지/행사,부산,혁신도시,공공기관,지역,인재,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=5&mode=view&idx=92390,
+202,2023년 3월 연구실 안전사고 알림,2023-05-02,공지/행사,안전,관리,실험,실습,연구실,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=5&mode=view&idx=92385,
+203,"[디자인대학] ""디자이너, 나는 누구인가?"" - 김현, 88올림픽 마스코트 '호돌이' 디자이너 특강",2023-04-26,공지/행사,디자이너,누구,김현,올림픽,마스코트,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=5&mode=view&idx=92367,
+204,[민석도서관] 제50회 작가와의 만남 - 김영하 작가,2023-04-26,공지/행사,일시,장소,민석,도서관,목적,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=5&mode=view&idx=92364,
+205,[학생생활상담센터] 5월 심리검사 실시 안내,2023-04-24,공지/행사,,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=5&mode=view&idx=92338,
+206,[민석도서관] 음악감상회 - 라흐마니노프 ‘파가니니 주제에 의한 광시곡’,2023-04-21,공지/행사,음악,감상,회안,주제,라흐마니노프,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=5&mode=view&idx=92321,
+207,2023년도 학생예비군 기본훈련 일정 안내,2023-04-19,공지/행사,훈련,일자,학생,예비군,훈련,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=5&mode=view&idx=92302,
+208,"2023학년도 기초학습역량진단 검사 실시 : -6. 30까지, MYDEX에서 실시",2023-04-14,공지/행사,학년,기초,학습,역량,진단,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=5&mode=view&idx=92278,
+209,[전체] 2023학년도 04월 비교과 프로그램 안내,2023-04-11,공지/행사,학년,역량,프로그램,신청,기간,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=5&mode=view&idx=92236,
+210,중간고사기간 스튜던트플라자 24시간 개방 안내,2023-04-10,공지/행사,,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=5&mode=view&idx=92226,
+211,국제학생증 발급 안내,2023-04-10,공지/행사,,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=5&mode=view&idx=92221,
+212,동아리연합회 봄맞이 버스킹 행사,2023-04-07,공지/행사,,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=5&mode=view&idx=92216,
+213,"[민석도서관] 민석음악회(바이올린, 비올라 듀오 리사이틀) 안내",2023-04-04,공지/행사,민석,음악회,안내,일시,장소,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=5&mode=view&idx=92180,
+214,[학생생활상담센터] 4월 심리검사 실시일정 안내,2023-03-31,공지/행사,,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=5&mode=view&idx=92164,
+215,제25기 국제기술봉사단원 합격자 안내,2023-03-31,공지/행사,국제,기술,봉사,합격자,아래,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=5&mode=view&idx=92161,
+216,2023학년도 학생신앙강좌 채플시간 변동 안내,2023-03-28,공지/행사,학년,학생,신앙,강좌,채플,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=5&mode=view&idx=92125,
+217,사회봉사1 O.T 및 코이카(KOICA) 해외봉사 모집 설명회,2023-03-27,공지/행사,사회,봉사,봉사,단발,대식,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=5&mode=view&idx=92113,
+218,[부산광역정신건강복지센터]정신질환 인식개선 캠페인 '당신은 몇 가지 시선으로 세상을 바라보나요?',2023-03-24,공지/행사,부산,광역,정신건강,복지,센터,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=5&mode=view&idx=92103,
+219,"육군 해군 해병대 학사장교 및 예비장교, 군 가산복무 지원자 모집 공고문",2023-03-21,공지/행사,육군,해군,해병대,학사장교,예비,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=5&mode=view&idx=92065,
+220,2023년 K-Move스쿨 설명회 참가 안내,2023-03-20,공지/행사,,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=5&mode=view&idx=92059,
+221,2023-1 ENGLISH HELP DESK 운영 안내문,2023-03-20,공지/행사,센텀,캠퍼스,경우,교수,성함,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=6&mode=view&idx=92056,
+222,화재발생시 행동요령 공지사항,2023-03-20,공지/행사,최근,전국,화재,인명,재산,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=6&mode=view&idx=92051,
+223,[민석도서관] 2023년 전자정보박람회 개최,2023-03-20,공지/행사,,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=6&mode=view&idx=92050,
+224,[교수학습개발센터] 디러닝쿱 튜터 추가모집(~4/3),2023-03-17,공지/행사,신청,바로가기,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=6&mode=view&idx=92030,
+225,2023년 4월 각 군 현역병 모집계획,2023-03-16,공지/행사,,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=6&mode=view&idx=92027,
+226,[학생복지팀]모바일 학생증 및 실물카드 학생증 발급 안내,2023-03-15,공지/행사,,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=6&mode=view&idx=92010,
+227,[민석도서관] 특강‘사람책 읽기’- 사람은 무엇으로 사는가,2023-03-15,공지/행사,특강,사람,안내,주제,사람,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=6&mode=view&idx=91960,
+228,[연구실안전]2022학년도 연구실 정기점검 및 정밀안전진단 결과 알림,2023-03-14,공지/행사,학년,연구실,안전,정기,점검,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=6&mode=view&idx=91952,
+229,[전체] 학생역량통합관리시스템(MYDEX) 접속방법 및 사용혜택 안내,2023-03-10,공지/행사,학생,역량,통합,관리,시스템,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=6&mode=view&idx=91909,
+230,[예비군연대]전국단위 예비군훈련 신청 안내,2023-03-10,공지/행사,전국,단위,예비군,훈련,신청,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=6&mode=view&idx=91908,
+231,[민석도서관] 2023-1학기 민석도서관 문화예술 프로그램 안내,2023-03-09,공지/행사,,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=6&mode=view&idx=91905,
+232,[해외취업] H MART/GRAND BK 미국 기업 설명회,2023-03-09,공지/행사,해외,취업,스쿨,설명,개최,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=6&mode=view&idx=91902,
+233,[교수학습개발센터] 1학기 온라인 학습전략특강 운영 안내(3/10~6/30),2023-03-08,공지/행사,신입생,재학생,기초,학습,도움,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=6&mode=view&idx=91880,
+234,[전체] 2023학년도 03월 비교과 프로그램 안내,2023-03-07,공지/행사,학년,역량,프로그램,신청,기간,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=6&mode=view&idx=91863,
+235,[교수학습개발센터] 1학기 BDAD 학습공동체 모집(~3/20),2023-03-03,공지/행사,신청,바로가기,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=6&mode=view&idx=91846,
+236,[학생생활상담센터] 3월 심리검사 실시일정 안내,2023-03-03,공지/행사,,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=6&mode=view&idx=91841,
+237,[전체] 1학기 동서대학교 K-MOOC 개강 및 수강안내,2023-03-02,공지/행사,동서대학교,학년,학기,한국,온라인,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=6&mode=view&idx=91838,
+238,[전체] 1학기 K-MOOC 일반선택학점 안내,2023-03-02,공지/행사,강인원,제한,사람,이수강,기반,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=6&mode=view&idx=91837,
+239,2023년_동서대학교_대학안전관리계획,2023-02-28,공지/행사,고등,교육법,안전,관리,계획,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=6&mode=view&idx=91834,
+240,사회봉사1 수강학생 필독 [ 2023 1학기 사회봉사1 공지사항],2023-02-27,공지/행사,사회,봉사,안내,사회,봉사,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=6&mode=view&idx=91825,
+241,지진 발생 시 대피요령,2023-02-23,공지/행사,지진,발생,대피,요령,동서대학교,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=7&mode=view&idx=91793,
+242,동서대학교 제32회 입학식 안내,2023-02-20,공지/행사,동서대학교,오전,신입생,참여,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=7&mode=view&idx=91735,
+243,23년도 1학기 복학(편입)생 학생예비군 신고 안내,2023-02-14,공지/행사,학기,복학,편입,학생,예비군,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=7&mode=view&idx=91679,
+244,2022-2학기 우수강의교원 공지,2023-02-13,공지/행사,학기,전임,교원,과대,전임,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=7&mode=view&idx=91658,
+245,「학위복 및 학사모 대여」,2023-02-09,공지/행사,학년,학위,수여,학위,복및,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=7&mode=view&idx=91648,
+246,[SW중심대학사업단] 2023-동계 SW기초교육 운영 프로그램,2023-02-03,공지/행사,프로그램,동계,기초,교육,운영,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=7&mode=view&idx=91595,
+247,"[민석도서관] ""특강"" 사람책을 찾습니다!",2023-02-02,공지/행사,민석,도서관,미래,교육,과연,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=7&mode=view&idx=91592,
+248,2022학년도 2학기 [BDAD 학습공동체] 우수팀 심사 결과 발표,2023-02-01,공지/행사,학년,학기,학습,공동체,우수,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=7&mode=view&idx=91578,
+249,제28회 학위수여식 안내,2023-01-31,공지/행사,,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=7&mode=view&idx=91567,
+250,동계방학 온라인 학습전략 특강(~2/20),2023-01-27,공지/행사,신청,바로가기,클릭,신청,기간,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=7&mode=view&idx=91540,
+251,[동서대학교 대학일자리센터] 컨설턴트 채용 공고,2023-01-25,공지/행사,동서대학교,대학,일자리,센터,컨설턴트,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=7&mode=view&idx=91523,
+252,[전체] 2022년 2학기 학습포인트 장학금 신청안내,2023-01-16,공지/행사,학기,학습,포인트,장학금,신청,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=7&mode=view&idx=91451,
+253,[전체] 2022년 한국형 온라인 공개강좌(K-MOOC) 공모전 모집(~1/29),2023-01-16,공지/행사,바로가기,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=7&mode=view&idx=91450,
+254,2023년도 병역판정검사 일자 및 장소 본인선택 안내,2023-01-09,공지/행사,세부,내용,첨부,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=7&mode=view&idx=91388,
+255,[SW중심대학사업단] 2023년 입학 전 SW교육 모집 공고,2023-01-06,공지/행사,예비,동서,여러분,여러분,합격,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=7&mode=view&idx=91383,
+256,23년도 1학기 복학(편입)생 학생예비군 신고 안내,2023-01-04,공지/행사,학기,복학,편입,학생,예비군,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=7&mode=view&idx=91362,
+257,2023년 지역인재 7급 수습직원 선발 시험 안내,2023-01-02,공지/행사,수습,직원,선발,시험,안내,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000191&pg=7&mode=view&idx=91351,
+258,2024년 동계 IBK 기업은행 체험형 청년인턴 채용 (전공무관 ~11/1 14시),2023-10-13,취업,기업은행,체험,청년,인턴,채용,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=1&mode=view&idx=93611,
+259,한국후지필름비즈니스이노베이션(주) 2023년 신입 공개채용 (전공무관 ~10/29),2023-10-13,취업,한국,후지필름,비즈니스,이노베이션,전공,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=1&mode=view&idx=93606,
+260,"2023 하반기 신한라이프 직무별 채용(신입) (소프트웨어, 글로벌비즈니스~10/15)",2023-10-13,취업,하반기,신한,라이프,직무,채용,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=1&mode=view&idx=93605,
+261,한국해양수산연수원 오션폴리텍 교육생 모집 (전공무관 ~12/22),2023-10-13,취업,한국,수산,수원,오션,폴리텍,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=1&mode=view&idx=93601,
+262,"KB굿잡 우수기업 취업박람회 (전공무관, 10/18)",2023-10-12,취업,기업,취업,박람회,전공,무관,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=1&mode=view&idx=93593,
+263,2023년 하반기 종근당 제약영업(MR) 신입사원 공개채용 (전공무관 ~10/19),2023-10-12,취업,신입사원,공개,채용,전공,무관,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=1&mode=view&idx=93591,
+264,HD 현대중공업 채용 (전공무관 ~10/16 오전 8시),2023-10-12,취업,현대,중공업,채용,전공,무관,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=1&mode=view&idx=93589,
+265,"2023년 대보그룹 신입사원 공개채용 (소프트웨어, 글로벌비즈니스 ~10/27)",2023-10-12,취업,소프트웨어,글로벌,비즈니스,접수,방법,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=1&mode=view&idx=93587,
+266,2023 하반기 현대그린푸드 대졸신입 공개채용 (전공무관 ~10/17),2023-10-12,취업,하반기,그린,푸드,대졸,신입,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=1&mode=view&idx=93582,
+267,2024년 (주)유비쿼스 신입사원 공채 (소프트웨어 ~10/25),2023-10-12,취업,유비,쿼스,신입사원,공채,소프트웨어,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=1&mode=view&idx=93581,
+268,NH 투자증권 2023년 하반기 대졸 신입사원 채용 (소프트웨어 ~10/15),2023-10-11,취업,투자,증권,소프트웨어,접수,방법,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=1&mode=view&idx=93579,
+269,(주)제일금속 채용 (전공무관 ~11/30),2023-10-11,취업,금속,채용,전공,무관,모집,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=1&mode=view&idx=93578,
+270,퀄리타스반도체 AE 신입/경력 채용 (소프트웨어 ~채용시마감),2023-10-11,취업,리타스,반도체,신입,경력,채용,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=1&mode=view&idx=93575,
+271,삼성 청년 SW 아카데미 11기 모집 (전공무관 ~11/6),2023-10-11,취업,삼성,청년,아카데미,모집,전공,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=1&mode=view&idx=93574,
+272,2024년도 애경그룹 AKIS 신입사원 공개채용 (소프트웨어 ~10/31),2023-10-11,취업,신입사원,공개,채용,소프트웨어,,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=1&mode=view&idx=93570,
+273,2023 GS글로벌 하반기 신입채용 (글로벌비즈니스 ~10/24),2023-10-11,취업,글로벌,하반기,신입,채용,글로벌,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=1&mode=view&idx=93569,
+274,2023년 파수&스패로우 신입 공개 채용 (전공무관 ~10/22),2023-10-11,취업,스패,로우,신입,공개,채용,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=1&mode=view&idx=93568,
+275,E1 2023년 채용연계형 동계인턴 채용 (전공무관 ~10/29),2023-10-10,취업,전공,무관,접수,방법,홈페이지,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=1&mode=view&idx=93563,
+276,한국관광공사 관광 신직무 심화 ESG (전공무관 ~10/13),2023-10-10,취업,한국,관광,관광,직무,심화,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=1&mode=view&idx=93562,
+277,한국관광공사 관광 신직무 인사이트 특강 (전공무관 ~10/12),2023-10-10,취업,한국,관광,관광,직무,인사이트,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=1&mode=view&idx=93561,
+278,그랜드코리아레저(주) 부산 롯데점 청년인턴 채용 (전공무관 ~10/26 15시),2023-10-10,취업,그랜드,코리아,레저,부산,롯데,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=2&mode=view&idx=93560,
+279,2024년도 CBS 신입/경력사원 선발 (전공무관 ~10/19 17시),2023-10-10,취업,신입,경력,사원,선발,전공,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=2&mode=view&idx=93559,
+280,HF 한국주택금융공사 공공기관 오픈캠퍼스 (전공무관 ~10/20),2023-10-10,취업,한국,주택,금융,공공기관,오픈,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=2&mode=view&idx=93558,
+281,10월 1주차 채용정보,2023-10-10,취업,주차,채용정보,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=2&mode=view&idx=93556,
+282,한국마사회 경마직원직 채용 (전공무관 ~10/18),2023-10-06,취업,한국,마사회,경마,직원,채용,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=2&mode=view&idx=93547,
+283,(주) 컴윌 채용 (전공무관 ~10/18),2023-10-06,취업,컴윌,채용,전공,무관,모집,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=2&mode=view&idx=93546,
+284,"2024년 DL이앤씨 신입사원 채용 (소프트웨어,전공무관 ~10/22)",2023-10-06,취업,신입사원,채용,소프트웨어,전공,무관,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=2&mode=view&idx=93544,
+285,청년일다방 마케팅 취업스터디 (전공무관 ~10/24),2023-10-06,취업,청년,다방,마케팅,취업,스터디,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=2&mode=view&idx=93543,
+286,간사이공항(에미레이트항공/EK) 공항지상직STAFF 모집 (전공무관 ~채용시마감),2023-10-06,취업,간사이,공항,미레이,항공,공항,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=2&mode=view&idx=93542,
+287,마이나비코리아 CIJ 온라인 기업설명회 (전공무관 ~10/09),2023-10-06,취업,마이,나비,코리아,온라인,기업,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=2&mode=view&idx=93541,
+288,2023년 (주)일화 신입 및 경력 채용 (전공무관 ~10/18),2023-10-06,취업,일화,신입,경력,채용,전공,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=2&mode=view&idx=93540,
+289,2023년 하반기 한화솔루션 인사이트부문 신입사원 채용 (전공무관 ~10/20),2023-10-06,취업,전공,무관,접수,방법,홈페이지,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=2&mode=view&idx=93538,
+290,2023년 하반기 인천국제공항공사 신입직원 채용 (전공무관 ~10/19),2023-10-06,취업,전공,무관,접수,방법,홈페이지,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=2&mode=view&idx=93536,
+291,2023 하반기 LG유플러스 신입사원 채용 (전공무관 ~10/9),2023-10-06,취업,하반기,유플러스,신입사원,채용,전공,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=2&mode=view&idx=93535,
+292,2023년 신규 MICE 행사 개발 공모전 (전공무관 ~11/12),2023-10-05,취업,행사,개발,공모전,전공,무관,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=2&mode=view&idx=93528,
+293,2023 하반기 정보보호 취업박람회 (전공무관 ~11/1),2023-10-05,취업,하반기,정보보호,취업,박람회,전공,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=2&mode=view&idx=93526,
+294,2023 넥슨컴퍼니 채용형 인턴십 (소프트웨어 ~10/18),2023-10-05,취업,넥슨,컴퍼니,채용,인턴십,소프트웨어,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=2&mode=view&idx=93525,
+295,2023년 한국산업기술시험원 품질관리 교육생 모집 (전공무관 ~10/17),2023-10-05,취업,전공,무관,접수,방법,홈페이지,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=2&mode=view&idx=93524,
+296,2023년 하반기 포스코이앤씨 신입 채용 및 LIVE 설명회 (전공무관 ~10/16),2023-10-05,취업,설명,전공,무관,접수,방법,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=2&mode=view&idx=93523,
+297,"2023 하반기 계룡건설 신입사원 채용 모집 (소프트웨어,전공무관 ~10/18)",2023-10-05,취업,하반기,계룡,건설,신입사원,채용,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=2&mode=view&idx=93522,
+298,경주스마트미디어센터 직원(연구원) 채용 (소프트웨어 ~10/11),2023-10-05,취업,경주,스마트미디어,센터,직원,연구원,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=3&mode=view&idx=93521,
+299,JW그룹 2023년 대졸 정규직 신입/경력 정규직 채용 (전공무관 ~10/10),2023-10-05,취업,그룹,경력,정규직,채용,전공,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=3&mode=view&idx=93520,
+300,2023년 항공보안파트너스(주) 항공보안직 신규 채용 (전공무관 ~10/13),2023-10-05,취업,항공,보안,신규,채용,전공,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=3&mode=view&idx=93519,
+301,2023년 하반기 한국타이어앤테크놀로지 채용 (전공무관 ~10/10),2023-10-05,취업,전공,무관,접수,방법,홈페이지,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=3&mode=view&idx=93518,
+302,2023 현대캐피탈 신입사원 채용 (전공무관 ~10/16),2023-10-05,취업,현대,캐피탈,신입사원,채용,전공,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=3&mode=view&idx=93517,
+303,[SAP Korea] SYNC 아카데미 4기 모집 (전공무관 ~11/7),2023-10-05,취업,아카데미,모집,전공,무관,접수,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=3&mode=view&idx=93516,
+304,9월 5주차 채용정보,2023-10-04,취업,주차,채용정보,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=3&mode=view&idx=93510,
+305,(주) 서원유통 탑마트 인턴사원 채용 (전공무관 ~10/3),2023-09-27,취업,유통,마트,인턴,사원,채용,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=3&mode=view&idx=93495,
+306,2023년 하반기 동원그룹 신입사원 모집 (전공무관 ~10/16),2023-09-27,취업,전공,무관,접수,방법,홈페이지,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=3&mode=view&idx=93494,
+307,울산지방중소벤처기업청 수출전문관(육아휴직 대체인력 기간제 근로자) 채용 (글로벌비즈니스 ~10/13),2023-09-26,취업,울산,지방,벤처기업,청수,출전,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=3&mode=view&idx=93493,
+308,한국전력기술(주) 신입사원 및 전문인력 채용 (전공무관 ~10/11),2023-09-26,취업,한국전력,기술,신입사원,전문,인력,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=3&mode=view&idx=93492,
+309,(주)신세계라이브쇼핑 신입사원 모집 (전공무관 ~10/12),2023-09-26,취업,신세계,라이브,쇼핑,신입사원,모집,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=3&mode=view&idx=93491,
+310,신세계아이앤씨 채용연계형 SW개발자 양성 프로그램 (전공무관 ~10/25),2023-09-26,취업,신세계,채용,개발자,양성,프로그램,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=3&mode=view&idx=93490,
+311,"2023년도 하반기 한국산림복지진흥원 정규직[5급, 6급] 채용 (전공무관 ~10/12)",2023-09-26,취업,채용,전공,무관,모집,부문,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=3&mode=view&idx=93487,
+312,"2023 부산 콘텐츠 아카데미 게임 취업 토크 콘서트 (전공무관, 10/7)",2023-09-26,취업,부산,콘텐츠,아카데미,게임,취업,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=3&mode=view&idx=93485,
+313,(주)신세계 신입사원 모집 (전공무관 ~10/12),2023-09-26,취업,신세계,신입사원,모집,전공,무관,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=3&mode=view&idx=93484,
+314,(주)신세계아이앤씨 2023 신입사원 모집 (전공무관 ~10/12),2023-09-26,취업,신세계,신입사원,모집,전공,무관,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=3&mode=view&idx=93483,
+315,(주)신세계 사이먼 2024 신입사원 모집 (전공무관 ~10/12),2023-09-26,취업,신세계,사이먼,신입사원,모집,전공,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=3&mode=view&idx=93482,
+316,(주)신세계인터내셔날 신입사원 모집 (전공무관 ~10/12),2023-09-26,취업,신세계,인터,신입사원,모집,전공,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=3&mode=view&idx=93481,
+317,2023년 하반기 KT ds 신입사원 공개채용 (소프트웨어 ~ 10/10),2023-09-26,취업,신입사원,공개,채용,소프트웨어,접수,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=3&mode=view&idx=93480,
+318,2023년 BC카드 하반기 신입사원 채용 (전공무관 ~10/5),2023-09-26,취업,카드,하반기,신입사원,채용,전공,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=4&mode=view&idx=93479,
+319,(주)이마트 신입사원 모집 (전공무관 ~10/12),2023-09-26,취업,이마트,신입사원,모집,전공,무관,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=4&mode=view&idx=93478,
+320,차병원·바이오그룹 신입/JUNIOR 대규모 공채 (전공무관 ~10/16),2023-09-26,취업,차병원,바이오,그룹,신입,대규모,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=4&mode=view&idx=93477,
+321,쎄트렉아이 2023 하반기 대규모 채용 (소프트웨어 ~10/9),2023-09-26,취업,쎄트렉아이,하반기,대규모,채용,소프트웨어,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=4&mode=view&idx=93475,
+322,2023년 하반기 한국지능정보사회진흥원 정규직 및 무기계약직(일반직) 채용 (전공무관 ~10/4),2023-09-26,취업,일반,채용,전공,무관,모집,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=4&mode=view&idx=93474,
+323,2023년도 하반기 한국인터넷진흥원 정규직 공개채용 (전공무관 ~10/5),2023-09-25,취업,전공,무관,접수,방법,홈페이지,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=4&mode=view&idx=93467,
+324,2023 하반기 롯데케미칼 기초소재사업 신입채용 (소프트웨어 ~10/5),2023-09-25,취업,하반기,롯데,케미칼,기초,소재,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=4&mode=view&idx=93466,
+325,삼성생명 금융아카데미 모집 (전공무관 ~10/20),2023-09-25,취업,삼성,생명,금융,아카데미,모집,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=4&mode=view&idx=93464,
+326,(주)한화 글로벌 2023 신입사원 채용 (소프트웨어 ~10/4),2023-09-25,취업,한화,글로벌,신입사원,채용,소프트웨어,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=4&mode=view&idx=93460,
+327,9월 4주차 채용정보,2023-09-25,취업,주차,채용정보,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=4&mode=view&idx=93458,
+328,이마트에브리데이 인턴사원 모집 (전공무관 ~10/9),2023-09-22,취업,이마트,에브리데이,인턴,사원,모집,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=4&mode=view&idx=93456,
+329,유네스코한국위원회 국제협력사업실 한시 계약직 채용 공고 (전공무관 ~10/12),2023-09-22,취업,유네스코,한국,위원회,국제,협력,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=4&mode=view&idx=93452,
+330,2023년 선진 신입 및 경력 대규모 채용 (전공무관 ~10/4),2023-09-22,취업,전공,무관,접수,방법,홈페이지,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=4&mode=view&idx=93446,
+331,이카운트 2023년 하반기 개발본부 경력 및 신입 채용 (소프트웨어 ~10/9),2023-09-22,취업,이카운트,소프트웨어,접수,방법,홈페이지,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=4&mode=view&idx=93445,
+332,2023 SK이노베이션 계열 신입사원 모집 (전공무관 ~9/24),2023-09-21,취업,이노베이션,신입사원,모집,전공,무관,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=4&mode=view&idx=93441,
+333,비전테크 (전공무관 ~9/27),2023-09-21,취업,테크,전공,무관,모집,부문,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=4&mode=view&idx=93439,
+334,2023년 하반기 (주)한샘 신입사원 공개채용 (전공무관~10/16),2023-09-21,취업,신입사원,공개,채용,전공,무관,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=4&mode=view&idx=93438,
+335,2023년 이엔에프테크놀로지 신입/경력 수시채용 (전공무관 ~10/9),2023-09-21,취업,경력,수시,채용,전공,무관,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=4&mode=view&idx=93436,
+336,(주)동화엔텍 각 부문별 신입/경력 사원 모집 (소프트웨어 ~10/13),2023-09-21,취업,동화,부문,신입,경력,사원,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=4&mode=view&idx=93435,
+337,용마로지스주식회사 2023년 9월 각 부문별 신입 및 경력 채용 (전공무관 ~10/9),2023-09-20,취업,용마로지스,주식회사,전공,무관,접수,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=4&mode=view&idx=93425,
+338,2023 LS전선 산학장학생 선발 (소프트웨어 ~10/4),2023-09-20,취업,전선,산학,장학생,선발,소프트웨어,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=5&mode=view&idx=93422,
+339,2023년 하반기 GS칼텍스 일반직 신입사원 채용 (소프트웨어 ~10/4),2023-09-20,취업,칼텍스,신입사원,채용,소프트웨어,접수,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=5&mode=view&idx=93421,
+340,2023년 BNK캐피탈 신입사원 채용 (전공무관 ~9/24),2023-09-20,취업,캐피탈,신입사원,채용,전공,무관,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=5&mode=view&idx=93420,
+341,아모레퍼시픽그룹 2023년 하반기 신입사원 수시채용 (전공무관 ~10/3),2023-09-19,취업,아모레퍼시픽,그룹,전공,무관,모집,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=5&mode=view&idx=93418,
+342,백양 새마을금고 채용 (전공무관 ~ 9/27),2023-09-19,취업,새마을금고,채용,전공,무관,모집,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=5&mode=view&idx=93412,
+343,2023년 하반기 주택도시보증공사 정규직 채용공고 (전공무관 ~10/4),2023-09-19,취업,전공,무관,모집,부문,담당,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=5&mode=view&idx=93411,
+344,보령 2023 하반기 신입&경력 공채 (전공무관 ~10/17),2023-09-19,취업,보령,하반기,신입,경력,공채,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=5&mode=view&idx=93409,
+345,LX인터내셔널 신입사원 채용 (채용연계형 인턴십) (전공무관 ~10.01),2023-09-19,취업,인터내셔널,신입사원,채용,채용,인턴십,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=5&mode=view&idx=93408,
+346,한국산업기술진흥협회 알앤디잡 현직자 직무체험 프로그램 참가자 모집 (소프트웨어 ~10/3 ),2023-09-19,취업,한국,산업,기술,진흥,협회,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=5&mode=view&idx=93407,
+347,2024년 한국보훈복지의료공단 보훈병원 간호직 공개채용 (바이오헬스융합 ~9/27),2023-09-19,취업,바이오,헬스,융합,접수,방법,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=5&mode=view&idx=93406,
+348,2023년도 하반기 전국 농·축협 신규직원 채용 (전공무관~9/25),2023-09-18,취업,축협,신규,직원,채용,전공,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=5&mode=view&idx=93405,
+349,여천NCC 2023년도 하반기 전문기능직 인턴사원 모집 (전공무관 ~9/25),2023-09-18,취업,여천,전공,무관,접수,방법,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=5&mode=view&idx=93404,
+350,클린룸 실습 기반 MOSFET 반도체 공정 전문인력(2차) 교육생 모집 (전공무관 ~10/6),2023-09-18,취업,클린룸,실습,기반,반도체,공정,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=5&mode=view&idx=93403,
+351,채용연계형 정보보호 컨설턴트 양성 과정 교육생 모집 (전공무관 ~9/30),2023-09-18,취업,채용,정보보호,컨설턴트,과정,교육,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=5&mode=view&idx=93402,
+352,"2023년 중앙그룹(중앙일보, JTBC 등) 신입사원 공개 채용 (전공무관 ~10/04)",2023-09-18,취업,중앙,일보,신입사원,공개,채용,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=5&mode=view&idx=93401,
+353,2023 하반기 대원제약 DNA채용 (전공무관 ~9/25),2023-09-18,취업,하반기,대원,제약,채용,전공,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=5&mode=view&idx=93400,
+354,2023 풍산그룹 신입사원 모집 (전공무관 ~10/4),2023-09-18,취업,풍산,그룹,신입사원,모집,전공,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=5&mode=view&idx=93399,
+355,2023 (주)일화 신입 및 경력 채용 (전공무관 ~9/20),2023-09-18,취업,일화,신입,경력,채용,전공,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=5&mode=view&idx=93398,
+356,2023 메디톡스 그룹 신입/경력사원 채용 (전공무관 ~10/4),2023-09-18,취업,디톡스,그룹,신입,경력,사원,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=5&mode=view&idx=93394,
+357,2023 하반기 일진그룹 신입/경력사원 공개채용 (전공무관 ~10/3),2023-09-18,취업,하반기,일진,그룹,신입,경력,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=5&mode=view&idx=93393,
+358,"2023 로레알코리아 커리어톡 in 광주 안내 (전공무관, 9/21)",2023-09-18,취업,로레알,코리아,커리어,광주,안내,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=6&mode=view&idx=93392,
+359,2023년 골프존뉴딘그룹 개발/기획 부문 채용연계형 인턴십 모집 (전공무관 ~10/3),2023-09-18,취업,기획,부문,채용,인턴십,모집,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=6&mode=view&idx=93391,
+360,2023년 하반기 코스맥스그룹 신입사원 모집 (전공무관 ~10/5),2023-09-18,취업,전공,무관,접수,방법,홈페이지,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=6&mode=view&idx=93390,
+361,2023년 하반기 SK에코엔지니어링 Junior Talent 채용 (전공무관 ~10/4),2023-09-18,취업,에코,엔지니어링,채용,전공,무관,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=6&mode=view&idx=93389,
+362,9월 3주차 채용정보,2023-09-18,취업,주차,채용정보,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=6&mode=view&idx=93386,
+363,세스코 서비스 디자이너 채용 (전공무관 ~10/22),2023-09-15,취업,세스코,서비스,디자이너,채용,전공,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=6&mode=view&idx=93372,
+364,2023 관광산업 일자리박람회 개최 (8/28~9/22),2023-09-15,취업,관광,산업,일자리,박람회,개최,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=6&mode=view&idx=93371,
+365,국립해양생물자원관 2023년 하반기 신규직원 채용 (전공무관 ~10/4),2023-09-15,취업,국립,양생,물자원,전공,무관,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=6&mode=view&idx=93363,
+366,2023년 하반기 금호석유화학그룹 신입 채용 (전공무관 ~9/26),2023-09-14,취업,전공,무관,접수,방법,홈페이지,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=6&mode=view&idx=93361,
+367,2024년 대한상공회의소 신입사원 채용 (전공무관 ~10/4),2023-09-14,취업,전공,무관,접수,방법,홈페이지,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=6&mode=view&idx=93360,
+368,2023년 ICT이노베이션스퀘어 확산 사업 블록체인 개발과정 온라인 교육 (선착순 모집),2023-09-14,취업,이노베이션,스퀘어,확산,사업,블록,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=6&mode=view&idx=93359,
+369,"2023 하반기 현대그룹 신입사원 채용 (소프트웨어, 전공무관 ~9/19)",2023-09-14,취업,하반기,현대,그룹,신입사원,채용,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=6&mode=view&idx=93358,
+370,2023 하반기 대웅제약 대규모 신입채용(전공무관 ~9/20),2023-09-14,취업,하반기,대웅제약,대규모,신입,채용,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=6&mode=view&idx=93357,
+371,2023년 한국투자공사 청년인턴 채용 (전공무관 ~10/4),2023-09-14,취업,전공,무관,접수,방법,홈페이지,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=6&mode=view&idx=93356,
+372,2023년 하반기 호텔신라 3급 신입사원 채용 (전공무관 ~9/18),2023-09-14,취업,신입사원,채용,전공,무관,접수,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=6&mode=view&idx=93355,
+373,(주) 신라금속 채용 (소프트웨어 ~10/31),2023-09-14,취업,신라금,채용,소프트웨어,모집,부문,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=6&mode=view&idx=93354,
+374,2023년 하반기 HD현대 신입사원 채용 (전공무관 ~9/25),2023-09-14,취업,현대,신입사원,채용,전공,무관,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=6&mode=view&idx=93353,
+375,2023년 하반기 (주)파라다이스 부산 카지노지점 채용연계형 인턴 모집 (전공무관 ~10/3),2023-09-14,취업,파라다이스,부산,카지노,지점,채용,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=6&mode=view&idx=93352,
+376,2023 하반기 ASML Korea 신입사원 채용 (전공무관 ~9/18),2023-09-14,취업,하반기,신입사원,채용,전공,무관,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=6&mode=view&idx=93351,
+377,2023 하반기 DB하이텍/DB글로벌칩 신입사원 공개채용 (전공무관 ~10/6),2023-09-14,취업,하반기,하이,글로벌,신입사원,공개,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=6&mode=view&idx=93350,
+378,김해근무 보안관제 정규직 전환형 인턴십 (전공무관 ~9/15),2023-09-14,취업,김해,근무,보안관,정규직,전환,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=7&mode=view&idx=93349,
+379,(100% 온라인교육) KISA주관교육 케이쉴드 주니어 하반기 단기집중과정 교육 (전공무관 ~9/14),2023-09-14,취업,온라인교육,주관,교육,케이,쉴드,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=7&mode=view&idx=93348,
+380,BGF리테일 2023년 하반기 신입사원 공개채용 (전공무관 ~9/27),2023-09-14,취업,리테일,전공,무관,접수,방법,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=7&mode=view&idx=93347,
+381,현대카드/현대커머셜 2023 신입 인재 모집 (전공무관 ~9/18),2023-09-14,취업,현대,카드,현대,머셜,신입,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=7&mode=view&idx=93346,
+382,2023년 전북은행 신입행원 채용 (전공무관 ~9/18),2023-09-14,취업,전공,무관,접수,방법,,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=7&mode=view&idx=93345,
+383,2023년 한국해양수산개발원 제1차 무기직 사무직 채용 (전공무관 ~9/21),2023-09-14,취업,무기,직사,무직,채용,소프트웨어,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=7&mode=view&idx=93344,
+384,2023년 하반기 삼성카드 3급 신입사원 채용 (전공무관 ~9/18),2023-09-14,취업,신입사원,채용,전공,무관,접수,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=7&mode=view&idx=93343,
+385,2023 코오롱 FnC 하반기 신입/경력 공개채용 (전공무관 ~10/6),2023-09-14,취업,코오롱,하반기,신입,경력,공개,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=7&mode=view&idx=93342,
+386,영림그룹 2023년 신입사원 채용 (전공무관 ~9/17),2023-09-14,취업,영림,그룹,전공,무관,접수,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=7&mode=view&idx=93341,
+387,2023년 삼성증권 하반기 신입사원 채용 (전공무관 ~9/18),2023-09-14,취업,전공,무관,접수,방법,홈페이지,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=7&mode=view&idx=93332,
+388,2023 HL그룹 하반기 신입 사원 채용 (전공무관 ~9/24),2023-09-14,취업,그룹,하반기,신입사원,채용,전공,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=7&mode=view&idx=93331,
+389,2023 한화시스템 하반기 국내/해외 신입사원 채용 (소프트웨어 ~10/3),2023-09-14,취업,한화,시스템,하반기,국내,해외,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=7&mode=view&idx=93330,
+390,2023 효성그룹 하반기 신입 공채 (전공무관 ~9/22),2023-09-14,취업,효성,그룹,하반기,신입,공채,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=7&mode=view&idx=93329,
+391,2024년 현대엔지니어링 신입사원 대규모 채용 (전공무관 ~9/24),2023-09-14,취업,전공,무관,접수,방법,홈페이지,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=7&mode=view&idx=93328,
+392,2024 유니클로 신입사원 모집 채용 (전공무관 ~10/11),2023-09-13,취업,유니클로,신입사원,모집,채용,전공,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=7&mode=view&idx=93315,
+393,2023 관광일자리 취업준비 챌린지 (전공무관 ~9/22),2023-09-13,취업,관광,일자리,취업,준비,린지,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=7&mode=view&idx=93314,
+394,2023년 우리은행 하반기 신입행원 채용 (전공무관 ~9/25),2023-09-13,취업,전공,무관,접수,방법,홈페이지,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=7&mode=view&idx=93313,
+395,2023년 삼성SDI 하반기 신입사원 채용 (전공무관 ~9/18),2023-09-13,취업,하반기,신입사원,채용,전공,무관,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=7&mode=view&idx=93312,
+396,2023 삼성전자판매 하반기 3급 신입사원 채용(전공무관 ~9/18),2023-09-13,취업,삼성,전자,판매,하반기,신입사원,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=7&mode=view&idx=93311,
+397,스마트팩토리 전문인력양성 교육생 모집 (전공무관 ~9/20),2023-09-13,취업,스마트,팩토리,인력,성교육,모집,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=7&mode=view&idx=93310,
+398,"신한은행 신한 커리어업 프로그램 (디자인,글로벌비즈니스 ~10/1)",2023-09-13,취업,신한은행,커리어,프로그램,디자인,글로벌,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=8&mode=view&idx=93309,
+399,"2023년 삼성전자 DS부문 하반기 신입 채용 (소프트웨어, 전공무관 ~9/18)",2023-09-13,취업,부문,하반기,신입,채용,소프트웨어,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=8&mode=view&idx=93308,
+400,2023년 제2차 남해지방해양경찰청 소속 청년인턴 채용시험 (전공무관 ~9/18),2023-09-12,취업,차남,방해,경찰청,소속,청년,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=8&mode=view&idx=93303,
+401,부산정보산업진흥원 일반계약직 채용 (전공무관 ~9/15),2023-09-12,취업,부산,정보산업,진흥,일반,채용,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=8&mode=view&idx=93302,
+402,2023 두산디지털이노베이션 채용연계형 인턴 모집 (소프트웨어 ~9/18),2023-09-12,취업,두산,디지털,이노베이션,채용,인턴,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=8&mode=view&idx=93301,
+403,2023 대우건설 하반기 신입사원 채용 (전공무관/소프트웨어 ~10/4),2023-09-12,취업,대우건설,하반기,신입사원,채용,전공,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=8&mode=view&idx=93300,
+404,2023 한국남동발전 2차 체험형인턴 채용 (전공무관 ~9/22),2023-09-12,취업,한국,남동,발전,체험,인턴,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=8&mode=view&idx=93299,
+405,2023 희망이음 부산 중견기업 잡페어 (9/20),2023-09-12,취업,희망이,부산,중견,기업,페어,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=8&mode=view&idx=93297,
+406,2023 부산디지털혁신아카데미 잡페어(BDIA JOB-FAIR) (소프트웨어 ~10/16),2023-09-12,취업,부산,디지털,혁신,아카데미,페어,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=8&mode=view&idx=93296,
+407,전국 개발자 경진대회 디챔스 (소프트웨어 ~9/27),2023-09-11,취업,전국,개발자,경진,대회,챔스,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=8&mode=view&idx=93287,
+408,농민신문사 인턴사원 모집 (전공무관 ~9/15),2023-09-11,취업,농민,신문사,농민,신문사,인턴,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=8&mode=view&idx=93286,
+409,2023 부산 잡투게더 채용박람회 안내 (전공무관 ~9/26),2023-09-11,취업,부산,투게더,채용,박람회,안내,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=8&mode=view&idx=93285,
+410,2023 현대로템 3분기 정기채용 (전공무관 ~9/17),2023-09-11,취업,현대,로템,전공,무관,접수,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=8&mode=view&idx=93284,
+411,"Neubla 2023 하반기 뉴블라 신입사원, 인턴 모집 (소프트웨어 ~9/27)",2023-09-11,취업,하반,기뉴,신입사원,인턴,모집,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=8&mode=view&idx=93281,
+412,한온시스템 2023 하반기 수시 채용연계형 인턴십 모집 (글로벌비즈니스/소프트웨어 ~9/18),2023-09-11,취업,시스템,하반기,채용,인턴쉽,모집,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=8&mode=view&idx=93280,
+413,2023 부산 통합 채용박람회 안내 (전공무관 ~9/14),2023-09-11,취업,부산,채용,통합,채용,박람회,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=8&mode=view&idx=93279,
+414,2023 하반기 샘표식품 신입직 직무별 채용 (전공무관 ~9/17),2023-09-11,취업,하반기,샘표식품,신입,직무,채용,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=8&mode=view&idx=93278,
+415,삼성 <기회균등 특별채용> 추천 (전공무관 ~9/13),2023-09-08,취업,삼성,기회균등,특별,채용,추천,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=8&mode=view&idx=93272,
+416,[해외취업] 일본 채용 면접회 (~9/24),2023-09-08,취업,해외,취업,일본,채용,면접,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=8&mode=view&idx=93270,
+417,[해외취업] 미국 자동차기계분야 채용주간 개최 (9/14),2023-09-08,취업,해외,취업,미국,자동차,기계,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=8&mode=view&idx=93269,
+418,2023 하반기 DB 생명 신입사원 공개채용 (전공무관 ~10/6),2023-09-08,취업,하반기,생명,신입사원,공개,채용,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=9&mode=view&idx=93264,
+419,"2023 올어바웃, 올리브영 MD 직무설명회(9/19)",2023-09-08,취업,바웃,올리브영,직무,설명,접수,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=9&mode=view&idx=93263,
+420,2024 뷰웍스 대졸 신입 공개채용 (소프트웨어 ~9/22),2023-09-08,취업,웍스,대졸,신입,공개,채용,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=9&mode=view&idx=93262,
+421,"GS 리테일 23년 하반기 편의점사업부, 홈쇼핑 사업부 신입사원 모집 (전공무관 ~9/18)",2023-09-08,취업,리테일,홈쇼핑,사업,신입사원,모집,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=9&mode=view&idx=93261,
+422,제 5회 (재)여주세종문화관광재단 직원 채용 (전공무관 ~9/17),2023-09-08,취업,세종,문화,관광,재단,직원,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=9&mode=view&idx=93260,
+423,2023년 제4회 여주시 지방임기제공무원 임용시험 (전공무관 ~9/20),2023-09-08,취업,전공,무관,모집,부문,담당,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=9&mode=view&idx=93259,
+424,2023년 제8회 포항시 임기제공무원 임용시험 (전공무관 ~9/14),2023-09-08,취업,전공,무관,모집,부문,담당,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=9&mode=view&idx=93258,
+425,지방공기업평가원 일반직 신입직원(회계) 공개채용 (전공무관 ~9/10),2023-09-08,취업,지방,공기업,평가원,일반,신입,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=9&mode=view&idx=93257,
+426,2023 S-OIL 신입사원 채용 (전공무관 ~9/24),2023-09-08,취업,신입사원,채용,전공,무관,모집,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=9&mode=view&idx=93256,
+427,2023년 하반기 KAI 대졸신입 채용 (소프트웨어 ~9/25),2023-09-08,취업,대졸,신입,채용,소프트웨어,관련,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=9&mode=view&idx=93255,
+428,2023년 하반기 IBK 기업은행 신입행원 채용 (전공무관 ~9/19),2023-09-08,취업,기업은행,신입,채용,전공,무관,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=9&mode=view&idx=93254,
+429,포스코그룹 2023년 하반기 신입/경력사원 채용 (전공무관~9/19),2023-09-08,취업,포스코,그룹,경력,사원,채용,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=9&mode=view&idx=93253,
+430,엠로 글로벌사업기획 신입사원 모집 (전공무관 ~9/10),2023-09-07,취업,엠로,글로벌,사업,기획,신입사원,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=9&mode=view&idx=93249,
+431,한화오션 2023 하반기 신입사원 채용(전공무관 ~9/24),2023-09-07,취업,한화,오션,하반기,신입사원,채용,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=9&mode=view&idx=93248,
+432,한국화학연구원 정규직원 채용 (전공무관 ~9/13),2023-09-07,취업,한국,화학,연구원,정규직,채용,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=9&mode=view&idx=93247,
+433,해외취업동아리(AJA Road) 8기 참가자 모집 (모집기간 9/4~9/22),2023-08-30,취업,해외,취업,동아리,참가자,모집,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=9&mode=view&idx=93147,
+434,부산시립예술단 사무국 직원 채용 공고 (전공무관 ~9/4),2023-08-29,취업,부산,시립,예술,단사,무국,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=9&mode=view&idx=93140,
+435,연천군시설관리공단 제3회 신규직원 공개채용 (전공무관 ~9/11),2023-08-29,취업,군시설,관리,전공,무관,모집,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=9&mode=view&idx=93139,
+436,참요양병원 직원 채용 (임상병리 ~채용시마감),2023-08-29,취업,양병,직원,채용,상병,채용,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=9&mode=view&idx=93138,
+437,㈜성창사 직원 채용 (전공무관 ~채용시마감),2023-08-29,취업,창사,직원,채용,전공,무관,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=9&mode=view&idx=93137,
+438,세아특수강 하반기 신입/경력 채용 (글로벌 ~9/10),2023-08-29,취업,세아,특수강,하반기,신입,경력,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=10&mode=view&idx=93136,
+439,해커스 교육그룹 직원전환형 인턴 채용 (전공무관 ~9/11),2023-08-29,취업,해커스,교육,그룹,직원,전환,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=10&mode=view&idx=93135,
+440,8월 3주차 채용정보,2023-08-21,취업,주차,채용정보,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=10&mode=view&idx=93088,
+441,[(주)한화/모멘텀]이차전지 신입인턴 엔지니어 모집 (소프트웨어 ~9/3),2023-08-21,취업,한화,모멘텀,이차전지,신입,인턴,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=10&mode=view&idx=93086,
+442,우진철강(주) 영업사원 모집 (전공무관 ~채용시마감),2023-08-21,취업,우진,철강,영업,사원,모집,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=10&mode=view&idx=93085,
+443,롯데백화점 광복점 까르띠에 워치 부띠크 신입사원 채용 (전공무관 ~채용시마감),2023-08-21,취업,롯데,백화점,광복,까르,워치,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=10&mode=view&idx=93084,
+444,"미래내일 청년 일경험 지원사업(인턴형) 안내 (전공무관, 소프트웨어 ~8/23)",2023-08-18,취업,미래,청년,험지,사업,인턴,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=10&mode=view&idx=93080,
+445,㈜일화 신입 채용 공고 (전공무관 ~8/26),2023-08-18,취업,일화,신입,채용,공고,전공,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=10&mode=view&idx=93079,
+446,"한국교직원공제회 신입직원 채용 (전공무관,소프트웨어,건축 ~8/31)",2023-08-16,취업,한국,교직원,공제,신입,직원,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=10&mode=view&idx=93065,
+447,펄어비스 QA Beginner 인턴 모집 (전공무관 ~8/27),2023-08-16,취업,어비스,인턴,모집,전공,무관,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=10&mode=view&idx=93064,
+448,8월 2주차 채용정보 및 대외활동정보,2023-08-14,취업,주차,채용정보,대외,활동,정보,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=10&mode=view&idx=93047,
+449,"(주)커넥트브릭 프로덕트 디자이너 채용 (디자인,전공무관 ~채용시마감)",2023-08-14,취업,커넥트,브릭,프로,덕트,디자이너,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=10&mode=view&idx=93046,
+450,한국퀀텀컴퓨팅(주) 인턴 채용 (전공무관 ~채용시마감),2023-08-14,취업,한국,퀀텀,컴퓨팅,인턴,채용,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=10&mode=view&idx=93045,
+451,엘앤피자동차코리아 직원 채용 (소프트웨어 ~채용시마감),2023-08-14,취업,엘앤,피자,동차,코리아,직원,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=10&mode=view&idx=93044,
+452,한국기상산업기술원 제 2회 공개채용 공고 (전공무관 ~8/22),2023-08-14,취업,한국,기상,산업,기술,원제,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=10&mode=view&idx=93043,
+453,부산광역시의회 일반임기제공무원 임용시험 공고 (소프트웨어 ~8/28),2023-08-10,취업,부산광역시,의회,임기,공무원,임용,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=10&mode=view&idx=93021,
+454,제2회 유통데이터 활용 경진대회 (전공무관 ~8/31),2023-08-10,취업,전공,무관,접수,방법,홈페이지,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=10&mode=view&idx=93020,
+455,"(주)세정 신입(인턴) 채용(채용연계형인턴) (전공무관, 디자인, 글로벌 ~8/21)",2023-08-10,취업,정신,인턴,채용,채용,인턴,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=10&mode=view&idx=93019,
+456,스마트 해상물류 창업오디션 7기 모집 (전공무관 ~8/20),2023-08-10,취업,스마트,해상,물류,창업,오디션,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=10&mode=view&idx=93018,
+457,한국소프트웨어산업협회 기업멤버십 SW캠프 채용연계형 교육생 모집 (소프트웨어 ~8/31),2023-08-10,취업,한국,소프트웨어,산업,협회,기업,https://www.dongseo.ac.kr/kr/index.php?pCode=job_plus&pg=10&mode=view&idx=93017,
+458,"채용 
+			
+			동서대학교 국제처 계약직원 채용 공고",2023-10-13,모집,동서대학교,국제,직원,채용,공고,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=1&mode=view&idx=93613,
+459,"교육/산학 
+			
+			대학일자리플러스센터 청년정책 체감도 및 만족도 조사",2023-10-13,모집,대학,일자리,플러스,센터,청년,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=1&mode=view&idx=93612,
+460,"교육/산학 
+			
+			[대학일자리플러스센터] ""부산항만공사"" 취업역량 강화 지원을 위한 대학생 모의면접 참가 후보자 모집안내",2023-10-13,모집,부산,항만,공사,지역,청년,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=1&mode=view&idx=93604,
+461,"채용 
+			
+			동서대학교 지방대학활성화사업단 스킬스쿨 행정직원 채용 공고",2023-10-12,모집,동서대학교,스킬,스쿨,행정,업무,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=1&mode=view&idx=93597,
+462,[Q College] 10월 도전 특강 신청안내,2023-10-12,모집,부캐,양성,도전,스쿨,칼리지,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=1&mode=view&idx=93596,
+463,"국제교류 
+			
+			2024년도 1학기 중국 Study Abroad Program 참가자 모집 안내",2023-10-12,모집,학기,중국,국제,교류,센터,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=1&mode=view&idx=93592,
+464,동서대 ESG경영 선포기념 플리마켓 참가자 모집,2023-10-12,모집,참가,신청,문의,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=1&mode=view&idx=93584,
+465,"공모전 
+			
+			동서대 ESG경영 선포기념 ESG 공모전 참가자 모집",2023-10-12,모집,참가,접수,최종,발표,학술,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=1&mode=view&idx=93583,
+466,"교육/산학 
+			
+			[대학일자리플러스센터] 청년희망 서포터즈 - 스튜던트플라자 행사 안내",2023-10-11,모집,동서대학교,대학,일자리,플러스,센터,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=1&mode=view&idx=93580,
+467,"교육/산학 
+			
+			[메이커스페이스구축운영사업] 다빈치랩, 2023년 10월 메이커교육 운영",2023-10-11,모집,메이커,스페이스,다빈치,무료,메이커,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=1&mode=view&idx=93576,
+468,"공모전 
+			
+			[전체] 2023-2학기 좋은 수업 학생 콘텐츠 공모전(~12/29)",2023-10-11,모집,신청,바로가기,제출,기간,대상,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=1&mode=view&idx=93571,
+469,"국제교류 
+			
+			2024-1학기 해외 자매대학 교환학생 선발 공고 (영어권) - 2차",2023-10-11,모집,학기,해외,자매,대학,교환학생,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=1&mode=view&idx=93567,
+470,[교목실] 조교 채용 공고,2023-10-10,모집,교목,조교,아래,모집,모집,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=1&mode=view&idx=93557,
+471,"교육/산학 
+			
+			[대학일자리플러스센터] 수요일은 스펙업데이 프로그램 11월 교육 일정 안내",2023-10-10,모집,학기,수요일,스펙,업데,프로그램,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=1&mode=view&idx=93554,
+472,"국제교류 
+			
+			2024년 1학기 중국 및 대만 지역 교류대학 교환학생 선발 공고",2023-10-07,모집,학기,중국,지역,교류,대학,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=1&mode=view&idx=93551,
+473,"채용 
+			
+			동서대학교 산학협력단 출산휴가 및 육아휴직 대체인력 채용 공고",2023-10-06,모집,동서대학교,산학,협력,구지원,업무,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=1&mode=view&idx=93545,
+474,"채용 
+			
+			[대학일자리플러스센터] 2023 KB 굿잡, 부산잡(JOB)페스티벌 참여자 모집안내",2023-10-05,모집,굿잡,부산,페스티벌,참여자,모집,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=1&mode=view&idx=93529,
+475,"교육/산학 
+			
+			[공학교육혁신센터] 「2023 라이프 스타일 스마트 가전 메이커톤」 참여 안내(~10/31(화))",2023-10-05,모집,학교,혁신,센터,공학,학부,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=1&mode=view&idx=93549,
+476,"교육/산학 
+			
+			찾아가는 청년고용정책 설명회 참여자 모집(센텀캠퍼스)",2023-10-04,모집,청년,고용,정책,설명,동서대학교,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=1&mode=view&idx=93514,
+477,"교육/산학 
+			
+			[전체] 2023-2학기 디러닝쿱 튜티 모집(~10/13)",2023-10-04,모집,학기,러닝,튜티,모집,활동,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=1&mode=view&idx=93507,
+478,"국제교류 
+			
+			2024년도 1학기 미국 Study Abroad Program 참가자 모집 안내",2023-10-04,모집,학년,학기,미국,동서대학교,국제,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=2&mode=view&idx=93505,
+479,"채용 
+			
+			[해운대구 사회복지급식관리지원센터] 대체 직원 채용 공고",2023-09-27,모집,모집,응모,자격,소속,모집,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=2&mode=view&idx=93496,
+480,"기숙사 
+			
+			How to pay dormitory fees for the 2023-2 semester (for freshmen) / 2023-2学期缴纳住宿费方法的通知(仅限于新生)",2023-09-26,모집,학기,기숙,사비,납부,관련,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=2&mode=view&idx=93489,
+481,"공모전 
+			
+			[교육혁신센터] 2023학년도 자기설계융합전공 개발 공모전",2023-09-25,모집,학년,도자기,설계,융합,전공,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=2&mode=view&idx=93461,
+482,"채용 
+			
+			인도네시아 수라바야 세종학당 파견 한국어강사 및 운영요원 채용공고",2023-09-22,모집,인도네시아,수라바야,종학,파견,한국어,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=2&mode=view&idx=93457,
+483,"[학생생활상담센터] 10월 ""하마터면 무작정 공부할 뻔 했다..!"" 모집",2023-09-22,모집,,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=2&mode=view&idx=93451,
+484,"채용 
+			
+			[디자인대학 건축학과] 조교 채용 공고",2023-09-22,모집,디자인,대학,건축학,조교,아래,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=2&mode=view&idx=93450,
+485,"교육/산학 
+			
+			[대학일자리플러스센터] 사상구 HiVE 기업탐방 참여자 모집(선착순)",2023-09-22,모집,참여자,혜택,공인,출석,식사,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=2&mode=view&idx=93448,
+486,"국제교류 
+			
+			2024학년도 1학기 영어권 해외 자매대학 파견 교환학생 선발 공고 - 1차",2023-09-21,모집,학기,해외,자매,대학,교환학생,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=2&mode=view&idx=93440,
+487,"교육/산학 
+			
+			[LINC 3.0] ★기간연장★ 2023-2학기 캡스톤디자인 지원 프로그램 모집 공고 안내(~9/27)",2023-09-21,모집,집안,집기,신청,방법,과제,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=2&mode=view&idx=93434,
+488,"교육/산학 
+			
+			[전체] 「2023년도 1인 크리에이터  동영상 콘텐츠 경진대회」개최 안내 (~10.27까지)",2023-09-21,모집,목적,지역,기반,크리에이터,양성,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=2&mode=view&idx=93432,
+489,"교육/산학 
+			
+			[전체] 2023-2학기 인싸의 공부법! UCC 공모전 모집 기간연장(~10/04)",2023-09-19,모집,신청,바로가기,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=2&mode=view&idx=93410,
+490,"교육/산학 
+			
+			[전체] 2023-2학기 우수연구회 모집(~10/04)",2023-09-18,모집,신청,바로가기,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=2&mode=view&idx=93382,
+491,"국제교류 
+			
+			세종학당재단 영남 소재 대학생 대상 세종학당 종합사업설명회 참여",2023-09-18,모집,,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=2&mode=view&idx=93388,
+492,"교육/산학 
+			
+			[메이커스페이스구축운영사업] 다빈치랩, 2023년 9월 메이커교육 모집",2023-09-13,모집,다빈치,교육구,프로그램,내용,교육,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=2&mode=view&idx=93320,
+493,"국제교류 
+			
+			2023년 세종학당 우수학습자 초청 연수 대학생 자원봉사자 모집 안내",2023-09-13,모집,집안,종학,학습,장학,사업,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=2&mode=view&idx=93316,
+494,"교육/산학 
+			
+			[대학일자리플러스센터]프레젠테이션 제작 및 스피치 발표 특강",2023-09-13,모집,프레,테이,및스,피치,발표,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=2&mode=view&idx=93323,
+495,"교육/산학 
+			
+			[전체] 부산권 파워반도체인재양성센터 반도체 기초 트랙 교육생 모집 (~9/27까지)",2023-09-11,모집,모집,인원,대학별,신청,요건,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=2&mode=view&idx=93292,
+496,『2023년 대학생 정책아이디어 콘서트』 홍보 및 참가자 모집,2023-09-11,모집,,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=2&mode=view&idx=93291,
+497,"교육/산학 
+			
+			[공학교육혁신센터] 2023 일본 「Advanced Tech 스마트 가전 기술 캠프」 참여 안내(~9/28(목))",2023-09-11,모집,학교,혁신,센터,프로그램,참여,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=2&mode=view&idx=93397,
+498,"교육/산학 
+			
+			[전체] 2023-2학기 디러닝쿱(D-Learning Co-op) 튜터 모집(~09/25)",2023-09-11,모집,신청,바로가기,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=3&mode=view&idx=93275,
+499,"교육/산학 
+			
+			[전체] 2023-2학기 동서GAP! 멘토-멘티 모집(~09/25)",2023-09-11,모집,신청,바로가기,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=3&mode=view&idx=93274,
+500,2023-2학기 영어잡지사 수습기자 모집,2023-09-11,모집,,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=3&mode=view&idx=93282,
+501,"교육/산학 
+			
+			채용연계형 정보보호 컨설턴트 양성과정 교육생 모집(~9/11)",2023-09-08,모집,채용,정보보호,컨설턴트,과정,교육,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=3&mode=view&idx=93268,
+502,"교육/산학 
+			
+			2023 스포츠 영상 분석가 양성과정 교육생 모집 (체육전공 ~10/4)",2023-09-08,모집,스포츠,영상,가양,과정,교육,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=3&mode=view&idx=93267,
+503,"교육/산학 
+			
+			부산지역 대학생 역량강화 네트워크(BUFF) 제7기 참가자 모집 (금융권 취업 희망자, ~9/17까지)",2023-09-08,모집,,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=3&mode=view&idx=93251,
+504,"채용 
+			
+			부산동서대청년사회서비스사업단 계약직원 채용 공고",2023-09-06,모집,부산,동서대,청년,사회,서비스,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=3&mode=view&idx=93239,
+505,[대학혁신] 2023학년도 DSU-URP(Undergraduate Research Program) 모집 안내 / ※ 학술대회 참가 지원,2023-09-06,모집,내용,지원,대상,각종,학술,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=3&mode=view&idx=93232,
+506,"채용 
+			
+			동서대학교 지방대학활성화사업단 전담인력 채용 공고",2023-09-06,모집,동서대학교,지방,대학,활성화,사업,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=3&mode=view&idx=93229,
+507,"채용 
+			
+			글로벌 K-컬처 선도 융합인재양성 사업단 연구원 채용 공고",2023-09-06,모집,교육부,한국,재단,인문,사회,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=3&mode=view&idx=93238,
+508,"채용 
+			
+			[디자인대학] 조교 채용 공고",2023-09-05,모집,디자인,대학,조교,아래,모집,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=3&mode=view&idx=93227,
+509,"교육/산학 
+			
+			[대학일자리플러스센터] 2023년-2학기 수요일은 스펙업데이 프로그램 안내",2023-09-05,모집,학기,수요일,스펙,업데,프로그램,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=3&mode=view&idx=93221,
+510,"기숙사 
+			
+			2023-2학기 학생생활관 자치회 2명 추가선발",2023-09-04,모집,학기,동서대학교,학생,생활관,학생,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=3&mode=view&idx=93211,
+511,[IPP센터]2023년 2학기 pre-IPP 취업동아리 참가자 모집,2023-09-04,모집,학기,취업,동아리,참가자,모집,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=3&mode=view&idx=93205,
+512,"교육/산학 
+			
+			[대학일자리플러스센터] 2023년도 2학기 청년희망 서포터즈 모집공고",2023-09-04,모집,학기,동서대학교,대학,일자리,플러스,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=3&mode=view&idx=93198,
+513,"교육/산학 
+			
+			해외취업동아리(AJA Road) 8기 참가자 모집 (모집기간 9/4-9/22)",2023-09-04,모집,신청,방법,로그인,비교,프로그램,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=3&mode=view&idx=93204,
+514,"국제교류 
+			
+			동서대학교 UN WFUNA 한국대학생 대표 모집 공고",2023-09-01,모집,프로그램,유엔본부,한국,대학생,대표,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=3&mode=view&idx=93197,
+515,"교육/산학 
+			
+			[LINC 3.0] 2023-2학기 캡스톤디자인 지원 프로그램 모집 공고 안내(~9/21)",2023-09-01,모집,집안,집기,신청,방법,과제,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=3&mode=view&idx=93187,
+516,"교육/산학 
+			
+			[전체] 부산권 파워반도체인재양성센터 반도체 공정 HSE(보건안전환경) 트랙 교육생 모집 (~9/13까지)",2023-08-31,모집,모집,인원,대학별,신청,요건,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=3&mode=view&idx=93171,
+517,"국제교류 
+			
+			2023년 일본 홋카이도교육대학과의 학생교류프로그램 참가자 모집",2023-08-31,모집,방문자,일본,홋카이도,교육대학,학생,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=3&mode=view&idx=93182,
+518,"국제교류 
+			
+			2024-1학기 파견 일본지역 교환학생 선발 공고",2023-08-31,모집,학기,파견,지역,교환학생,선발,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=4&mode=view&idx=93167,
+519,"국제교류 
+			
+			2024년 1학기 일본 Study Abroad Program+ 참가자 모집",2023-08-31,모집,학기,일본,참가자,모집,학기,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=4&mode=view&idx=93164,
+520,"채용 
+			
+			동서대학교 대학혁신지원사업(원격교육센터) 전담인력 채용 공고",2023-08-30,모집,동서대학교,대학,혁신,지원,사업,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=4&mode=view&idx=93146,
+521,"교육/산학 
+			
+			[전체] (추가모집) ‘2023년 B.SORI Project 시즌4 - Beyond University ICC’ 참가 모집 안내",2023-08-29,모집,동서대학교,단계,산학,협력,선도,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=4&mode=view&idx=93143,
+522,디자인대학 조교 모집[추가공고],2023-08-29,모집,디자인,대학,조교,아래,모집,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=4&mode=view&idx=93142,
+523,"채용 
+			
+			동서대학교 재무본부 계약직원 채용 공고",2023-08-29,모집,동서대학교,재무,본부,직원,채용,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=4&mode=view&idx=93141,
+524,[민석도서관] 2023-2학기 독서클럽 회원모집 안내,2023-08-28,모집,민석,도서관,학기,독서,클럽,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=4&mode=view&idx=93115,
+525,"교육/산학 
+			
+			[전체] 2023-2학기 BDAD 학습공동체 모집(~9/18)",2023-08-25,모집,신청,바로가기,첨부파일,운영,계획,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=4&mode=view&idx=93110,
+526,"공모전 
+			
+			[전체] 2023년도 캡스톤디자인 경진대회 및 산학연계 교육과정 영상콘텐츠 공모전 개최 안내",2023-08-24,모집,추진,목적,스톤,디자인,경진,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=4&mode=view&idx=93108,
+527,"채용 
+			
+			계약학과(클라우드융합학과)전담직원 채용 공고",2023-08-24,모집,계약,학과,클라우드,융합,학과,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=4&mode=view&idx=93107,
+528,"채용 
+			
+			동서대학교 창업보육센터 계약직원 채용 공고",2023-08-24,모집,동서대학교,창업,보육,센터,직원,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=4&mode=view&idx=93106,
+529,"채용 
+			
+			[교무처 학사운영실] 조교 채용 공고",2023-08-23,모집,동서대학교,교무,학사,운영,아래,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=4&mode=view&idx=93099,
+530,"국제교류 
+			
+			2024-1학기 GELS 샌안토니오 UN프로젝트 2차 참가자 모집!",2023-08-22,모집,프로그램,샌안토니오,프로젝트,파견,대학,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=4&mode=view&idx=93096,
+531,"교육/산학 
+			
+			[전체] 2023-2학기 학습전략코칭 모집 (~11/30)",2023-08-22,모집,신청,바로가기,신청,기간,운영,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=4&mode=view&idx=93095,
+532,"채용 
+			
+			동서대학교 여대생커리어개발센터 계약직원 채용 공고",2023-08-22,모집,동서대학교,여대생,커리어,개발,센터,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=4&mode=view&idx=93094,
+533,"채용 
+			
+			[아시아미래디자인연구소] 전임연구인력 채용 공고",2023-08-21,모집,동서대학교,부설,센터,아시아,미래,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=4&mode=view&idx=93091,
+534,"교육/산학 
+			
+			[대학일자리플러스센터] 해운대구 청년 취업 멘토링 콘서트",2023-08-21,모집,해운대구,청년,취업,멘토링,콘서트,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=4&mode=view&idx=93089,
+535,"채용 
+			
+			2023학년도 2학기 강사 채용 공고(3차)",2023-08-21,모집,학년,학기,강사,채용,공고,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=4&mode=view&idx=93083,
+536,"기숙사 
+			
+			2023학년도 2학기 학생생활관 (학생생활아파트)추가 합격자 조회",2023-08-18,모집,학년,학기,학생,생활관,학생,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=4&mode=view&idx=93078,
+537,"교육/산학 
+			
+			[학생·취업지원처] 2023학년도 2학기 진로탐색학점제 참여 학생 모집",2023-08-18,모집,학생,취업,지원,학년,학기,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=4&mode=view&idx=93076,
+538,"교육/산학 
+			
+			[부산동서대청년사회서비스사업단] 청년신체건강증진서비스 모집 안내",2023-08-17,모집,관련,사이트,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=5&mode=view&idx=93074,
+539,"채용 
+			
+			동서대학교 대학혁신지원사업(기획운영팀) 전담인력 채용 공고",2023-08-16,모집,동서대학교,대학,혁신,지원,사업,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=5&mode=view&idx=93066,
+540,"국제교류 
+			
+			2023-2 DSU Buddy Program+ 참가자 모집",2023-08-16,모집,참가자,모집,본교,한국,재학생,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=5&mode=view&idx=93062,
+541,"채용 
+			
+			계약학과(클라우드융합학과)전담직원 채용 공고",2023-08-16,모집,계약,학과,클라우드,융합,학과,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=5&mode=view&idx=93059,
+542,디자인대학 조교 모집[기간 연장],2023-08-16,모집,디자인,대학,조교,아래,모집,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=5&mode=view&idx=93055,
+543,"채용 
+			
+			[재공고] 동서대학교 외국어교육원 한국어 강사 채용 공고",2023-08-16,모집,동서대학교,외국어,교육,근무,한국어,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=5&mode=view&idx=93067,
+544,"채용 
+			
+			동서대학교 대학혁신지원사업(원격교육센터, 학생생활상담센터) 전담인력 채용 공고",2023-08-14,모집,동서대학교,대학,혁신,지원,사업,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=5&mode=view&idx=93048,
+545,[학생생활상담센터] Peer Counseling(정서지원 멘토링) 멘토-멘티 모집,2023-08-14,모집,신청,기간,신청,방법,신청,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=5&mode=view&idx=93035,
+546,[일반대학원] 조교 채용 공고,2023-08-11,모집,대학원,조교,아래,모집,모집,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=5&mode=view&idx=93033,
+547,"채용 
+			
+			[디지털 역량 강화 교육사업단] 계약직원 채용 공고",2023-08-11,모집,동서대학교,디지털,역량,강화,교육사,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=5&mode=view&idx=93032,
+548,"교육/산학 
+			
+			[교목실] 2023학년도 채플 도우미 선발",2023-08-11,모집,동서대학교,교목,학년,채플,수업,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=5&mode=view&idx=93029,
+549,"채용 
+			
+			중국 안휘이공대학 파견 한국어강사 채용공고",2023-08-10,모집,중국,안휘,대학,파견,한국어,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=5&mode=view&idx=93026,
+550,"교육/산학 
+			
+			[LINC 3.0] 2023년도 2학기 장기 표준현장실습 프로그램 모집공고",2023-08-10,모집,현장,실습,프로그램,현장,중심,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=5&mode=view&idx=93023,
+551,"교육/산학 
+			
+			[대학일자리플러스센터] '2023년 부·울·경연합 온라인 직무 박람회' 참여 신청 안내",2023-08-10,모집,신청,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=5&mode=view&idx=93022,
+552,"기숙사 
+			
+			2023-2학기 학생생활아파트 기숙사생 추가모집 8월 14일~8월 15일(부산시외, 부산시내 지원가능)",2023-08-10,모집,온라인,지원,기숙사,신청,조회,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=5&mode=view&idx=93015,
+553,"교육/산학 
+			
+			[전체] 부산권 파워반도체인재양성센터 Application트랙 교육생 모집 (~8/16까지)",2023-08-10,모집,모집,인원,대학별,신청,요건,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=5&mode=view&idx=93013,
+554,"교육/산학 
+			
+			[전체] 부산권 파워반도체인재양성센터 마케팅트랙(반도체EXPO 비즈니스) 교육생 모집 (~8/15까지)",2023-08-10,모집,모집,인원,대학별,신청,요건,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=5&mode=view&idx=93012,
+555,"채용 
+			
+			동서대학교 외국어교육원 한국어 강사 채용 공고",2023-08-10,모집,동서대학교,외국어,교육,근무,한국어,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=5&mode=view&idx=93025,
+556,"국제교류 
+			
+			2023년 국제교류센터 일반근로장학생(베트남어 가능자) 모집 안내 (연장)",2023-08-09,모집,베트남어,가능,모집,안내,모집,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=5&mode=view&idx=93008,
+557,"공모전 
+			
+			[대학일자리플러스센터/고용노동부] 대학일자리플러스센터 참여자 수기 공모전",2023-08-09,모집,고용노동부,대학,일자리,플러스,센터,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=5&mode=view&idx=93007,
+558,"채용 
+			
+			[미래커리어대학] 계약직원 채용 공고",2023-08-09,모집,동서대학교,미래,커리어,대학,업무,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=6&mode=view&idx=93002,
+559,"기숙사 
+			
+			2023학년도 2학기 학생생활관 (글로벌하우스, 학생생활아파트)합격자 조회",2023-08-08,모집,학년,학기,학생,생활관,글로벌,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=6&mode=view&idx=93000,
+560,"단체 
+			
+			2023학년도 2학기 시외통학버스 운행 모집(마산,창원/울산)",2023-08-08,모집,학년,학기,시외,통학버스,운행,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=6&mode=view&idx=92998,
+561,"채용 
+			
+			미디어콘텐츠대학 실습조교 채용 공고",2023-08-08,모집,미디어,콘텐츠,대학,실습,조교,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=6&mode=view&idx=92997,
+562,"교육/산학 
+			
+			[전체] ‘2023년 B.SORI Project 시즌4 - Beyond University ICC’ 참가 모집 안내",2023-08-07,모집,동서대학교,단계,산학,협력,선도,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=6&mode=view&idx=92995,
+563,[교목실] 일반근로장학생 선발 안내,2023-08-07,모집,학년,교목,근로,장학생,선발,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=6&mode=view&idx=92992,
+564,"교육/산학 
+			
+			[전체] 인싸의 공부법 수기 공모전 모집(~10/31)",2023-08-07,모집,신청,바로가기,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=6&mode=view&idx=92991,
+565,"교육/산학 
+			
+			2023년도 2학기 장기 표준현장실습학기제 참여 실습기업 모집",2023-07-27,모집,동서대학교,현장,실습,센터,실무,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=6&mode=view&idx=92968,
+566,"교육/산학 
+			
+			[전체] 부산권 파워반도체인재양성센터 반도체 장비 기술트랙 교육생 모집 (~8/4까지)",2023-07-27,모집,모집,인원,대학별,신청,요건,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=6&mode=view&idx=92963,
+567,"채용 
+			
+			동서대학교 창업보육센터 계약직원 채용 공고",2023-07-27,모집,동서대학교,창업,보육,센터,직원,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=6&mode=view&idx=92962,
+568,"교육/산학 
+			
+			[전체] 부산권 파워반도체인재양성센터 설계트랙 교육생 모집 (~8/11까지)",2023-07-26,모집,모집,인원,대학별,신청,요건,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=6&mode=view&idx=92959,
+569,"기숙사 
+			
+			2023-2학기 학생생활아파트 입주생 모집(7월31일~8월4일)",2023-07-25,모집,온라인,지원,기숙사,신청,조회,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=6&mode=view&idx=92953,
+570,"기숙사 
+			
+			2023-2학기 글로벌하우스 입주생 모집(7월31일~8월4일)",2023-07-25,모집,온라인,지원,기숙사,신청,조회,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=6&mode=view&idx=92951,
+571,"교육/산학 
+			
+			[다빈치랩] 2023년 8월 MAKE 교육 신청!!!!",2023-07-25,모집,카카오,채널,동서대학교,다빈치,문의,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=6&mode=view&idx=92949,
+572,"교육/산학 
+			
+			[전체] 부산권 파워반도체인재양성센터 반도체부품설계 SW 응용 트랙 교육생 모집(~8/11까지)",2023-07-25,모집,모집,인원,대학별,신청,요건,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=6&mode=view&idx=92946,
+573,"교육/산학 
+			
+			[전체] 부산권 파워반도체인재양성센터 공정트랙(1차) 교육생 모집(~8/7까지)",2023-07-24,모집,모집,인원,대학별,신청,요건,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=6&mode=view&idx=92938,
+574,"기숙사 
+			
+			2023학년도 2학기 부경대학교 행복기숙사  합격자 조회",2023-07-21,모집,학년,학기,부경대학교,행복,기숙사,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=6&mode=view&idx=92933,
+575,"기숙사 
+			
+			How to use Flywire (*Only international students)",2023-07-21,모집,,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=6&mode=view&idx=92958,
+576,"교육/산학 
+			
+			[학생·취업지원처] 2023학년도 2학기 진로탐색학점제 참여 학생 모집 기간 연장",2023-07-21,모집,학생,취업,지원,학년,학기,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=6&mode=view&idx=92930,
+577,"채용 
+			
+			글로벌 K-컬처 선도 융합인재양성 사업단 계약직원 채용 공고",2023-07-21,모집,교육부,한국,재단,인문,사회,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=6&mode=view&idx=92937,
+578,"교육/산학 
+			
+			[전체] 부산권 파워반도체인재양성센터 패키징트랙 교육생 모집(~8/7까지)",2023-07-20,모집,모집,인원,대학별,실습,개조,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=7&mode=view&idx=92922,
+579,"채용 
+			
+			2023학년도 2학기 비전임(초빙, 겸임)교원 및 강사 채용 공고(2차)",2023-07-19,모집,학년,학기,전임,초빙,겸임,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=7&mode=view&idx=92917,
+580,"채용 
+			
+			지방대학활성화사업 전담인력 채용 공고",2023-07-18,모집,동서대학교,지방,대학,활성화,사업,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=7&mode=view&idx=92912,
+581,"채용 
+			
+			대학혁신지원사업 전담인력 채용 공고",2023-07-17,모집,동서대학교,대학,혁신,사업,업무,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=7&mode=view&idx=92905,
+582,"채용 
+			
+			[미래커리어대학] 계약직원 채용 공고",2023-07-17,모집,동서대학교,미래,커리어,대학,업무,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=7&mode=view&idx=92903,
+583,"교육/산학 
+			
+			[전체] 인싸의 공부법 UCC공모전 모집(~09/04)",2023-07-17,모집,신청,바로가기,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=7&mode=view&idx=92902,
+584,"교육/산학 
+			
+			[부산동서대청년사회서비스사업단] 청년신체건강증진서비스 모집 안내",2023-07-13,모집,관련,사이트,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=7&mode=view&idx=92892,
+585,"교육/산학 
+			
+			2023년 Biz-R&D 창업동아리 모집",2023-07-13,모집,지원,대상,창업,관심,대학원,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=7&mode=view&idx=92891,
+586,"기숙사 
+			
+			2023-2학기  부경대학교 행복기숙사 입주생 모집(관광계열 및 임권택 영화예술대학 재학생 대상)",2023-07-11,모집,온라인,지원,기숙사,신청,조회,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=7&mode=view&idx=92871,
+587,"기숙사 
+			
+			2023 Fall semester Dormitory Application for International Students",2023-07-06,모집,,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=7&mode=view&idx=92852,
+588,"채용 
+			
+			동서대학교 창업보육센터 계약직원 채용 공고",2023-07-05,모집,동서대학교,창업,보육,센터,직원,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=7&mode=view&idx=92843,
+589,"교육/산학 
+			
+			[학생·취업지원처] 2023학년도 2학기 진로탐색학점제 참여 학생 모집 안내",2023-07-05,모집,학생,취업,지원,학년,학기,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=7&mode=view&idx=92839,
+590,2023학년도 2학기 2차 전임교원 초빙 공고,2023-07-04,모집,기독교,정신,사랑,나눔,건학,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=7&mode=view&idx=92832,
+591,"국제교류 
+			
+			 2023년 국제처 일반근로장학생 모집 안내",2023-07-03,모집,모집,인원,디자인,작업,가능,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=7&mode=view&idx=92819,
+592,"국제교류 
+			
+			 2023년 국제교류센터 일반근로장학생(일본어 가능자) 모집 안내",2023-06-30,모집,일본어,가능,모집,안내,모집,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=7&mode=view&idx=92812,
+593,"기숙사 
+			
+			학생생활관 기숙사별 소통 QR코드 (*유학생 대상)",2023-06-28,모집,유학생,대상,학생,생활관,기숙사,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=7&mode=view&idx=92803,
+594,"채용 
+			
+			2023학년도 2학기 비전임(초빙, 겸임)교원 및 강사 채용 공고",2023-06-28,모집,학년,학기,전임,초빙,겸임,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=7&mode=view&idx=92799,
+595,"채용 
+			
+			[메이커스페이스 구축운영사업] 메이커 서포터즈 모집",2023-06-26,모집,메이커,서포터즈,모집,메이커,서포터즈,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=7&mode=view&idx=92781,
+596,"교육/산학 
+			
+			[리마인드_공학교육혁신센터] 공학교육 활성화트랙-국제 IoT DX가전 미래산업 EXPO 탐방(~6/26(월), 대학별 5명)",2023-06-26,모집,기반,가전,지능,혁신,핵심,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=7&mode=view&idx=92779,
+597,"교육/산학 
+			
+			[공학교육혁신센터] 「내 방에서 펼쳐지는 인공지능의 모든 것! AI 레시피 온라인 교육」 참여 안내(~7/4(화))",2023-06-26,모집,최근,무엇,범람,대표,산업혁명,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=7&mode=view&idx=92778,
+598,"교육/산학 
+			
+			[리마인드_공학교육혁신센터] 「Python 기반 AI KIT로 배우는 인공지능 교육」 참여 안내(~6/27(화))",2023-06-26,모집,기반,인공,지능,교육,온라인,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=8&mode=view&idx=92777,
+599,2023학년도 디자인대학 조교 채용 공고,2023-06-22,모집,모집,응모,자격,소속,모집,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=8&mode=view&idx=92763,
+600,"채용 
+			
+			2023-1 외국어교육원 일반봉사장학생 추가 모집 안내",2023-06-21,모집,외국어,교육,일반,봉사,장학생,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=8&mode=view&idx=92756,
+601,"교육/산학 
+			
+			[공학교육혁신센터] 「IoT 가전 기업분석 경진대회」 참여 안내(~6/29(목))",2023-06-20,모집,부산대학교,학교,혁신,센터,주관,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=8&mode=view&idx=92750,
+602,2024 GELS 샌안토니오 UN프로젝트 참가자 모집,2023-06-20,모집,프로그램,샌안토니오,프로젝트,파견,대학,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=8&mode=view&idx=92743,
+603,"공모전 
+			
+			2023년 국세청 웹툰 공모전",2023-06-20,모집,공모,주제,세금,성실,납세,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=8&mode=view&idx=92742,
+604,"교육/산학 
+			
+			[대학혁신] 2023학년도 DSU-URP(Undergraduate Research Program) 모집 안내 / ※ 학술대회 참가 지원",2023-06-19,모집,내용,지원,대상,각종,학술,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=8&mode=view&idx=92739,
+605,"국제교류 
+			
+			[Q College] 2023 GELS 코리아 참가자 모집",2023-06-19,모집,세상,의학,습장,코리아,참가자,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=8&mode=view&idx=92736,
+606,"교육/산학 
+			
+			[공학교육혁신센터] 공학교육 활성화트랙-국제 IoT DX가전 미래산업 EXPO 탐방(~6/26(월), 대학별 5명)",2023-06-16,모집,광주,국제,가전,로봇,박람회,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=8&mode=view&idx=92728,
+607,"교육/산학 
+			
+			[공학교육혁신센터] 「데이터 수집기반 IoT 융합 교육과정」 참여 안내(~6/27(화))",2023-06-16,모집,데이터,수집,기반,융합,교육과정,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=8&mode=view&idx=92722,
+608,"교육/산학 
+			
+			[공학교육혁신센터] 「Python 기반 AI KIT로 배우는 인공지능 교육」 참여 안내(~6/27(화))",2023-06-16,모집,기반,인공,지능,교육,온라인,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=8&mode=view&idx=92721,
+609,"국제교류 
+			
+			2023-2024 불가리아 정부초청 장학생 선발 안내",2023-06-16,모집,불가리아,정부,초청,장학생,선발,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=8&mode=view&idx=92720,
+610,"국제교류 
+			
+			2023년 국제처 일반근로장학생 모집 안내",2023-06-16,모집,모집,인원,영어,가능,근무시간,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=8&mode=view&idx=92719,
+611,"4단계 BK21사업 ""미래영상콘텐츠혁신융합교육연구단"" 신진연구인력(계약교수) 채용공고",2023-06-14,모집,단계,사업,미래,영상,콘텐츠,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=8&mode=view&idx=92709,
+612,[일반대학원] 조교 채용 공고,2023-06-12,모집,대학원,조교,아래,모집,채용,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=8&mode=view&idx=92674,
+613,"교육/산학 
+			
+			 [전체] 1학기 다시 듣고 싶은 강의 에세이 공모전 모집 재공지(~06/30)",2023-06-12,모집,신청,바로가기,제출,기간,대상,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=8&mode=view&idx=92669,
+614,"교육/산학 
+			
+			[전체]'좋은수업' 학생 콘텐츠 공모전 모집 재공지(~06/30)",2023-06-12,모집,신청,바로가기,제출,기간,대상,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=8&mode=view&idx=92668,
+615,"국제교류 
+			
+			2023년 하계방학 중 일본인 학생과의 교류프로그램 참가자 모집",2023-06-12,모집,대학,수단,학생,부담,교류,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=8&mode=view&idx=92678,
+616,[사회봉사센터]보건분야 전공연계 해외봉사 단원 합격자 발표,2023-06-08,모집,금번,한국,대학,사회,봉사,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=8&mode=view&idx=92654,
+617,"기숙사 
+			
+			2023학년도 하계 계절학기 글로벌하우스 입주 합격자 조회",2023-06-08,모집,학년,도하,계절,학기,글로벌,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=8&mode=view&idx=92652,
+618,"교육/산학 
+			
+			[대학일자리플러스센터] 에듀윌 온라인 콘텐츠 활용 공모전 '야, 너두 할 수 있어!' 참가자 모집",2023-06-08,모집,,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=9&mode=view&idx=92646,
+619,대학원 계약학과(클라우드융합학과) 조교 모집,2023-06-08,모집,대학원,계약,학과,클라우드,융합,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=9&mode=view&idx=92603,
+620,"국제교류 
+			
+			2023학년도 2학기 미국 SAP 합격자 발표",2023-06-07,모집,학기,미국,합격자발표,국제,교류,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=9&mode=view&idx=92643,
+621,"교육/산학 
+			
+			[대학일자리플러스센터] 취업 성공 수기 신청 안내",2023-06-07,모집,,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=9&mode=view&idx=92642,
+622,"교육/산학 
+			
+			[대학일자리플러스센터] 2023년 국내 외국계기업 취업 잡토크 특강 신청 안내",2023-06-07,모집,신청,구글,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=9&mode=view&idx=92640,
+623,"국제교류 
+			
+			 2023학년도 2학기 미국 Study Abroad Program 서류전형 합격자 발표 및 면접안내",2023-06-05,모집,학년,학기,미국,서류,전형,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=9&mode=view&idx=92632,
+624,동서대 캠퍼스 투어 안내 홍보도우미 선발,2023-06-05,모집,동서대,캠퍼스,투어,안내,홍보,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=9&mode=view&idx=92629,
+625,[사회봉사센터]보건분야 전공연계 해외봉사 단원모집,2023-06-02,모집,보건,공연,해외,봉사,모집,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=9&mode=view&idx=92621,
+626,"교육/산학 
+			
+			[대학일자리플러스센터] 「MICE 산업 현직자 초청 직무특강 및 멘토링 프로그램」 신청 안내",2023-06-02,모집,신청,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=9&mode=view&idx=92617,
+627,2023학년도 2학기 전임교원 초빙 공고,2023-06-01,모집,기독교,정신,사랑,나눔,건학,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=9&mode=view&idx=92613,
+628,"교육/산학 
+			
+			[LINC 3.0 사업단] [참여교수/기업] 2023년도 산학공동 기술개발과제 지원계획 공고",2023-06-01,모집,사업,개요,동서대학교,산학,협력,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=9&mode=view&idx=92608,
+629,"교육/산학 
+			
+			[전체] ""챗GPT를 활용하여 취업 전략을 세워보자!"" 생성형 AI 챗GPT 기술 활용 취업전략 프로그램 (~6/2까지)",2023-05-31,모집,학년,미래,산업,기술,재양,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=9&mode=view&idx=92607,
+630,"채용 
+			
+			부산동서대청년사회서비스사업단 계약직원 채용 공고",2023-05-31,모집,부산,동서대,청년,사회,서비스,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=9&mode=view&idx=92602,
+631,"교육/산학 
+			
+			[전체] 2023-1학기 학습전략코칭 모집 재공지 (신청기간~6/23)",2023-05-30,모집,신청,바로가기,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=9&mode=view&idx=92593,
+632,"인턴 
+			
+			[IPP]하계계절학기 연계과정 현장실습 참가자 모집",2023-05-26,모집,계절,학기,정현,실습,참가자,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=9&mode=view&idx=92588,
+633,"교육/산학 
+			
+			[공학교육혁신센터] 동명대학교 공학교육혁신센터 「IoT 가전 ACADEMY」 참여 안내(~6/16.(금), 선착순 30명)",2023-05-25,모집,미래,산업,교육,프로그램,가전,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=9&mode=view&idx=92564,
+634,"교육/산학 
+			
+			[부산동서대청년사회서비스사업단] 청년신체건강증진서비스 모집 안내",2023-05-24,모집,관련,사이트,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=9&mode=view&idx=92557,
+635,"교육/산학 
+			
+			[대학일자리플러스센터] 자격취득과정 온라인교육 프로그램 안내",2023-05-24,모집,사이트,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=9&mode=view&idx=92550,
+636,"채용 
+			
+			디자인대학 조교 모집(재공고)",2023-05-22,모집,모집,응모,자격,소속,모집,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=9&mode=view&idx=92540,
+637,"기숙사 
+			
+			2023년도 글로벌하우스 하계 입주생 모집공고(6월1일~6일)",2023-05-22,모집,기숙사,신청,조회,바로가기,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=9&mode=view&idx=92536,
+638,"국제교류 
+			
+			★지원기간 연장(~6/5(월))★ 2023학년도 2학기 미국 Study Abroad Program 참가자 모집",2023-05-22,모집,학년,학기,미국,동서대학교,국제,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=10&mode=view&idx=92531,
+639,"채용 
+			
+			동서대학교 3단계 산학연협력 선도대학 육성사업(LINC 3.0) 전담인력 채용 공고",2023-05-22,모집,모집,응모,자격,소속,모집,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=10&mode=view&idx=92532,
+640,'내가 남긴 달란트이야기 들어볼래?' 수기공모전 모집,2023-05-19,모집,달란트,이야기,수기,공모전,달란트,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=10&mode=view&idx=92528,
+641,"교육/산학 
+			
+			공기업/공공기관 취업 전략 특강 모집 안내",2023-05-19,모집,,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=10&mode=view&idx=92524,
+642,"기숙사 
+			
+			2023년도 학생생활관 냉방가동 안내",2023-05-18,모집,,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=10&mode=view&idx=92511,
+643,"기숙사 
+			
+			Thông Báo đăng kí KTX dành cho du học sinh VIỆT NAM trong kỳ nghỉ hè 2023",2023-05-18,모집,학생,생활관,지원,시스템,학생,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=10&mode=view&idx=92509,
+644,"기숙사 
+			
+			2023年暑假期间国际学生住宿申请指南",2023-05-18,모집,,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=10&mode=view&idx=92507,
+645,"기숙사 
+			
+			2023 Summer Vacation Application Dormitory for International Students",2023-05-18,모집,,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=10&mode=view&idx=92505,
+646,"교육/산학 
+			
+			[LINC 3.0 사업단] 2023학년도 하계 계절학기 표준현장실습 프로그램 모집공고",2023-05-17,모집,학년,도하,계절,학기,표준,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=10&mode=view&idx=92500,
+647,"채용 
+			
+			동서대학교 중국연구센터 계약직원 채용 공고",2023-05-16,모집,동서대학교,중국,센터,직원,채용,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=10&mode=view&idx=92487,
+648,"국제교류 
+			
+			2023-2024 이탈리아 정부초청 장학생 선발 안내",2023-05-16,모집,이탈리아,정부,초청,장학생,선발,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=10&mode=view&idx=92484,
+649,동서대학교 대학일자리플러스센터 취업지원전담자 모집 공고,2023-05-16,모집,동서대학교,대학,일자리,플러스,센터,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=10&mode=view&idx=92481,
+650,"채용 
+			
+			동서대학교 지역혁신클러스터육성(비R&D) 인력양성 사업 연구원 채용",2023-05-15,모집,동서대학교,산학,협력,지역,혁신,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=10&mode=view&idx=92472,
+651,"[학생생활상담센터] 5월 ""하마터면 무작정 공부할 뻔 했다..!"" 모집",2023-05-12,모집,,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=10&mode=view&idx=92464,
+652,"채용 
+			
+			동서대학교 기술지주 주식회사 전담인력 채용공고",2023-05-12,모집,동서대학교,기술,지주,주식회사,업무,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=10&mode=view&idx=92461,
+653,[원격교육센터] 강의공개용 교육콘텐츠(KOCW) 툴킷봉사장학생 모집 안내,2023-05-11,모집,원격교육,센터,강의,공개,교육,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=10&mode=view&idx=92455,
+654,"채용 
+			
+			부산동서대청년사회서비스사업단 계약직원 채용 공고",2023-05-10,모집,부산,동서대,청년,사회,서비스,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=10&mode=view&idx=92450,
+655,"채용 
+			
+			동서대학교 예비예술인 현장연계 지원사업 계약직원 채용 공고",2023-05-09,모집,동서대학교,예비,예술인,현장,계지원,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=10&mode=view&idx=92445,
+656,"국제교류 
+			
+			[Q College] 2023-2학기 GELS 챌린저 모집",2023-05-09,모집,세상,의학,습장,참가자,모집,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=10&mode=view&idx=92437,
+657,"교육/산학 
+			
+			[전체]'좋은수업' 학생 콘텐츠 공모전 모집(~06/30)",2023-05-09,모집,신청,바로가기,제출,기간,대상,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000197&pg=10&mode=view&idx=92436,
+658,2023년 9-10월 장학금 지급일정 안내,2023-09-19,장학,장학,장학금,지급,일자,국가장학금,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=1&mode=view&idx=93585,
+659,2023-2학기 대학생 청소년교육지원사업 멘토 합격자발표 및 안내자료,2023-09-15,장학,합격자,안내,문자,미수,신시,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=1&mode=view&idx=93369,
+660,2023학년도 2학기 한국장학재단 교내 국가근로 합격자발표 및 유의사항 안내,2023-08-23,장학,학년,학기,한국,장학재단,교내,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=1&mode=view&idx=93103,
+661,"★중요★ 2023학년도 2학기 한국장학재단 학자금대출(일반상환,취업후상환) 안내",2023-07-05,장학,학자금대출,필독,사항,소득,정보,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=1&mode=view&idx=92837,
+662,★중요★ 2023학년도 2학기 농촌출신대학생 학자금융자(무이자) 지원 안내,2023-07-05,장학,사업,개요,지원,목적,농어,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=1&mode=view&idx=92833,
+663,2023년 하반기 (재)울산연구원 장학생 선발 안내,2023-10-13,장학,선발,분야,울산,인재,우수,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=1&mode=view&idx=93600,
+664,2024년도 대산농촌재단 장학생 선발 안내,2023-10-13,장학,,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=1&mode=view&idx=93598,
+665,한국장학재단 특별상환 유예대출 신청 안내,2023-10-11,장학,상환,학자금대출,상환,부담,특별상,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=1&mode=view&idx=93564,
+666,2023년 부산광역시 대학생 학자금대출 이자지원 안내,2023-10-06,장학,사업,학자금대출,이자지,지원,대상,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=1&mode=view&idx=93533,
+667,2023년 통영시 대학생 등록금 전액 지원 안내,2023-09-22,장학,,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=1&mode=view&idx=93455,
+668,2023학년도 1학기 한국장학재단 국가장학금 Ⅱ유형(신·편입생 지원) 특별 구제 신청 안내,2023-09-19,장학,신청,대상,등록금,입학,금실,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=1&mode=view&idx=93416,
+669,2023학년도 2학기 2차(복학생대상) 장학사정관제 장학생 선발 안내,2023-09-18,장학,학년,학기,복학생,대상,장학,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=1&mode=view&idx=93395,
+670,2023-2 안산시 대학생 본인부담 등록금 반값지원 안내,2023-09-15,장학,,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=1&mode=view&idx=93374,
+671,2023년 (재)경주시장학회 장학생 선발 안내,2023-09-15,장학,선발,인원,신청,자격,선발,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=1&mode=view&idx=93366,
+672,2023년 (재)포항시장학회 장학생 선발 안내,2023-09-15,장학,선발,인원,장학,금액,학기,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=1&mode=view&idx=93365,
+673,2023년 (재)고속도로장학재단 고속도로장학생 선발 안내,2023-09-15,장학,고속도로,장학재단,고속도로,사고,피해,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=1&mode=view&idx=93364,
+674,"2023년도 2학기 중소기업 취업/창업 연계 장학금(희망사다리) 신규 장학생 신청 안내 (~9/15, 18:00까지)",2023-09-11,장학,학기,중소기업,취업,창업,장학금,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=1&mode=view&idx=93273,
+675,2023년 상반기 통영시 대학생 학자금대출 이자 지원 안내,2023-09-06,장학,사업,내용,한국,장학재단,통해,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=1&mode=view&idx=93234,
+676,2023년도 (재)광산장학회 장학생 선발공고,2023-09-06,장학,신청,접수,기간,신청,방법,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=1&mode=view&idx=93233,
+677,2023년 하반기 춘천시민장학재단 장학생 선발 안내,2023-09-06,장학,선발,개요,신청,기간,추석,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=1&mode=view&idx=93228,
+678,2023-2학기 대학생 청소년교육지원사업 멘토 추가선발 안내(9/7~9/14),2023-09-04,장학,대학생,청소년,교육,지원,장학금,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=1&mode=view&idx=93215,
+679,2023학년도 2학기 희망사다리 2유형(고졸후학습자) 장학금 신청안내(연장:~10/4 18시까지),2023-09-04,장학,신청,기간,연장,지원,대상,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=1&mode=view&idx=93213,
+680,2023년 2학기 한국장학재단 푸른등대 KB Dream Wave 2030 인재양성 유망분야 기부장학금 신청공고,2023-09-01,장학,사업,목적,본인,분야,대학생,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=1&mode=view&idx=93194,
+681,2023학년도 2학기 지헌장학재단 장학생 모집공고(시각디자인전공 3~4학년),2023-08-31,장학,사항,첨부파일,선발,요강,참조,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=1&mode=view&idx=93172,
+682,"[솔루션데스크] 2023-2학기 솔루션장학 신청안내(배려장학 ~9/15, 슬기로운 휴학생활 장학 ~9/22)",2023-08-29,장학,학년,솔루션,장학,신청,안내,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=1&mode=view&idx=93133,
+683,2023년 9-10월 장학금 지급일정 안내,2023-09-19,장학,장학,장학금,지급,일자,국가장학금,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=2&mode=view&idx=93585,
+684,2023-2학기 대학생 청소년교육지원사업 멘토 합격자발표 및 안내자료,2023-09-15,장학,합격자,안내,문자,미수,신시,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=2&mode=view&idx=93369,
+685,2023학년도 2학기 한국장학재단 교내 국가근로 합격자발표 및 유의사항 안내,2023-08-23,장학,학년,학기,한국,장학재단,교내,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=2&mode=view&idx=93103,
+686,"★중요★ 2023학년도 2학기 한국장학재단 학자금대출(일반상환,취업후상환) 안내",2023-07-05,장학,학자금대출,필독,사항,소득,정보,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=2&mode=view&idx=92837,
+687,★중요★ 2023학년도 2학기 농촌출신대학생 학자금융자(무이자) 지원 안내,2023-07-05,장학,사업,개요,지원,목적,농어,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=2&mode=view&idx=92833,
+688,2023년 (재)인천인재평생교육진흥원 하반기 장학생 선발 안내,2023-08-28,장학,인천,인재,평생교육,흥원,인천,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=2&mode=view&idx=93116,
+689,2023 (재)고연장학재단 장학생 선발 안내,2023-08-23,장학,지원,대상,부산,경남,지역,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=2&mode=view&idx=93105,
+690,2023년 부산광역시 학자금대출 이자지원 안내,2023-08-17,장학,신청,기간,신청,자격,자격,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=2&mode=view&idx=93073,
+691,2023학년도 2학기 교내근로(등록휴학생) 근로장학생 모집 안내(일부부서 기간연장: ~9/15),2023-08-17,장학,학년,학기,등록,휴학생,학년,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=2&mode=view&idx=93072,
+692,2023학년도 2학기 보훈장학금 신청 안내(신규 국가유공자 본인 또는 자녀),2023-08-16,장학,신청,대상,신규,국가,유공,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=2&mode=view&idx=93058,
+693,"2023학년도 2학기 교육·교역자, 형제·자매, 한마음장학금 온라인 신청 안내(9/1~9/15)",2023-08-16,장학,신청,경우,첨부파일,제목,한글,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=2&mode=view&idx=93057,
+694,★중요★ 2023-2학기 국가근로장학금 2차 신청 안내(8/17-9/14),2023-08-14,장학,계방,학교,외국,근로,대학,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=2&mode=view&idx=93036,
+695,★중요★ 2023-2학기 국가장학금 2차 신청 안내(8/17~9/14),2023-08-14,장학,신청,기간,주말,공휴일,포함,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=2&mode=view&idx=93034,
+696,2023학년도 2학기 교내 국가근로 희망근로지 신청 안내,2023-08-08,장학,학년,학기,교내,국가,근로,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=2&mode=view&idx=93001,
+697,2023년 부산지역인재 장학금 상반기 지원 신청 공고,2023-07-28,장학,부산광역시,부산,테크노,파크,부산,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=2&mode=view&idx=92986,
+698,2023년 상반기 인천광역시 학자금 대출 이자지원 안내,2023-07-24,장학,사업,지원,내용,학기,한국,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=2&mode=view&idx=92945,
+699,2023년 상반기 울산광역시 대학생 학자금대출 이자지원 안내,2023-07-21,장학,지원,대상,공고,기준,본인,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=2&mode=view&idx=92927,
+700,2023년 서울희망대학 진로 장학생 선발 안내,2023-07-15,장학,상세한내용,첨부파일,선발,고문,확인,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=2&mode=view&idx=92901,
+701,2023년 정읍시민장학재단 장학생 선발 안내,2023-07-13,장학,사항,첨부파일,선발,공고,참고,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=2&mode=view&idx=92893,
+702,2023년 상반기 군산시 대학생 학자금 대출 이자지원 안내,2023-07-12,장학,군산시,관내,주소,학생,경제,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=2&mode=view&idx=92880,
+703,2023학년도 하계방학 교외근로 프로그램 학생신청 안내[대학 교외기관 매칭](화명중학교 도서실),2023-07-10,장학,한국,장학재단,근로,장학생,방학기,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=2&mode=view&idx=92860,
+704,2023년 하반기 경기도 대학생 학자금 대출이자 지원 안내,2023-07-05,장학,대학생,대학원생,미취,졸업,수료,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=2&mode=view&idx=92834,
+705,2023학년도 7월 장학금 지급일정 안내,2023-07-04,장학,장학,장학금,지급,일자,인문,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=2&mode=view&idx=92824,
+706,2023학년도 2학기 한국장학재단 푸른등대 기부장학사업 신규장학생 선발안내,2023-06-30,장학,학생,신청,서류,제출,기간,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=2&mode=view&idx=92818,
+707,2023학년도 2학기 장학사정관제 장학생 1차(재학생대상) 선발 안내,2023-06-23,장학,학년,학기,재학생,대상,장학,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=2&mode=view&idx=92770,
+708,2023년 9-10월 장학금 지급일정 안내,2023-09-19,장학,장학,장학금,지급,일자,국가장학금,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=3&mode=view&idx=93585,
+709,2023-2학기 대학생 청소년교육지원사업 멘토 합격자발표 및 안내자료,2023-09-15,장학,합격자,안내,문자,미수,신시,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=3&mode=view&idx=93369,
+710,2023학년도 2학기 한국장학재단 교내 국가근로 합격자발표 및 유의사항 안내,2023-08-23,장학,학년,학기,한국,장학재단,교내,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=3&mode=view&idx=93103,
+711,"★중요★ 2023학년도 2학기 한국장학재단 학자금대출(일반상환,취업후상환) 안내",2023-07-05,장학,학자금대출,필독,사항,소득,정보,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=3&mode=view&idx=92837,
+712,★중요★ 2023학년도 2학기 농촌출신대학생 학자금융자(무이자) 지원 안내,2023-07-05,장학,사업,개요,지원,목적,농어,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=3&mode=view&idx=92833,
+713,"2023학년도 하계방학 교외국가근로 학생 신청현황(추가모집,기관추가)",2023-06-15,장학,기관,신청,현황,기관,기존,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=3&mode=view&idx=92714,
+714,2023년 (재)논산시장학회 학업장려 장학생 선발 안내,2023-06-15,장학,,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=3&mode=view&idx=92711,
+715,2023학년도 하계방학 교외근로 프로그램 학생신청 안내[대학 교외기관 매칭](추가모집마감),2023-06-14,장학,한국,장학재단,근로,장학생,방학기,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=3&mode=view&idx=92710,
+716,2023학년도 하계방학 교외 및 집중근로프로그램 합격자발표 및 학생 안내자료(교외 정기/추가모집 합격발표 현황 추가),2023-06-12,장학,서류,제출,계절,학기,시간표,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=3&mode=view&idx=92685,
+717,"2023년 2학기 농림축산식품부 대학 장학금 신청 안내(농어촌희망재단, 6/16~7/6)",2023-06-09,장학,서류,제출,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=3&mode=view&idx=92666,
+718,2023년 충청남도 학자금 대출이자 지원 안내,2023-06-09,장학,충청남도,평생교육,인재,진흥,충남,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=3&mode=view&idx=92657,
+719,2023학년도 6월 장학금 지급일정 안내,2023-06-08,장학,장학,장학금,지급,일자,국가장학금,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=3&mode=view&idx=92650,
+720,2023-1학기 대학생 청소년교육지원사업 멘토 추가선발 안내(6/8~6/11),2023-06-08,장학,대학생,청소년,교육,지원,장학금,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=3&mode=view&idx=92645,
+721,2023학년도 1학기 국가장학금 2유형(대학연계지원형) 지원계획,2023-06-02,장학,지급,대상,학년,학기,국가장학금,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=3&mode=view&idx=92620,
+722,[솔루션데스크] 2023-1학기 솔루션장학(2차) 신청안내 (학사경고탈출장학~7/2),2023-06-01,장학,학년,솔루션,장학,청안,솔루션,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=3&mode=view&idx=92609,
+723,"2023년 BNK금융그룹희망나눔재단 BNK행복장학금 신청 안내(~6/8, 6/13 최종선발예정)",2023-05-30,장학,오전,문자,미수,신시,탈락,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=3&mode=view&idx=92601,
+724,2023학년도 하계방학 교외국가근로 학생 신청현황(추가신청 및 기관별 현황 추가),2023-05-30,장학,기관,신청,현황,기관,기존,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=3&mode=view&idx=92592,
+725,2023-2 산학협동재단 디딤돌 장학생 선발 안내,2023-05-25,장학,서류,제출,사업,목적,경제,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=3&mode=view&idx=92577,
+726,2023학년도 2학기 한국장학재단 학자금대출 사전신청 안내,2023-05-23,장학,사전,신청,일정,오전,국가장학금,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=3&mode=view&idx=92689,
+727,2023학년도 하계방학 교외근로 프로그램 학생신청 안내[대학 교외기관 매칭],2023-05-22,장학,한국,장학재단,근로,장학생,방학기,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=3&mode=view&idx=92539,
+728,2023학년도 하계방학 집중근로 프로그램 학생신청 안내[한국장학재단 교외기관 매칭],2023-05-19,장학,한국,장학재단,근로,장학생,방학기,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=3&mode=view&idx=92527,
+729,2023-1학기 International College 일반근로장학생 선발 안내,2023-05-18,장학,학기,근로,장학생,선발,안내,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=3&mode=view&idx=92512,
+730,★중요★ 2023-2학기 국가장학금 1차 신청 안내(5/23~6/22) - 재학생 1차신청 필수,2023-05-18,장학,신청,기간,주말,공휴일,포함,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=3&mode=view&idx=92503,
+731,2023년 상반기 익산시 대학생 학자금 대출이자 지원 신청 공고,2023-05-18,장학,지원,내용,지원,대상,공고,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=3&mode=view&idx=92501,
+732,2023년 상반기 전주시 대학생 학자금 대출이자 지원 신청 공고,2023-05-17,장학,사업,사업,내용,지원,대상,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=3&mode=view&idx=92486,
+733,2023년 9-10월 장학금 지급일정 안내,2023-09-19,장학,장학,장학금,지급,일자,국가장학금,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=4&mode=view&idx=93585,
+734,2023-2학기 대학생 청소년교육지원사업 멘토 합격자발표 및 안내자료,2023-09-15,장학,합격자,안내,문자,미수,신시,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=4&mode=view&idx=93369,
+735,2023학년도 2학기 한국장학재단 교내 국가근로 합격자발표 및 유의사항 안내,2023-08-23,장학,학년,학기,한국,장학재단,교내,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=4&mode=view&idx=93103,
+736,"★중요★ 2023학년도 2학기 한국장학재단 학자금대출(일반상환,취업후상환) 안내",2023-07-05,장학,학자금대출,필독,사항,소득,정보,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=4&mode=view&idx=92837,
+737,★중요★ 2023학년도 2학기 농촌출신대학생 학자금융자(무이자) 지원 안내,2023-07-05,장학,사업,개요,지원,목적,농어,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=4&mode=view&idx=92833,
+738,★중요★ 2023-2학기 1차 국가근로장학금 신청 안내(5/23-6/22),2023-05-16,장학,신청,기간,주말,공휴일,포함,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=4&mode=view&idx=92482,
+739,2023년 화성시인재육성재단 주거비지원 장학생 모집 안내,2023-05-12,장학,,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=4&mode=view&idx=92462,
+740,2023학년도 한국장학재단 하계방학 교외 국가근로기관 신청 안내★기관담당자★,2023-05-10,장학,학년,한국,장학재단,계방,학교,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=4&mode=view&idx=92451,
+741,2023년 서울장학재단 독립유공자 후손 장학생 선발 안내,2023-05-02,장학,장학금,독립유공자,후손,장학금,선발,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=4&mode=view&idx=92398,
+742,2023학년도 5월 장학금 지급일정 안내,2023-05-02,장학,장학,장학금,지급,일자,국가장학금,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=4&mode=view&idx=92388,
+743,(한국장학재단 일반상환학자금대출) 특별상환 유예대출 신청 안내,2023-04-27,장학,특별상,환유,대출,경제,사유,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=4&mode=view&idx=92374,
+744,[솔루션데스크] 2023-1학기 솔루션장학 신청안내[기간연장]- 슬기로운 휴학생활 장학(~5/1),2023-04-24,장학,학년,솔루션,장학,신청,안내,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=4&mode=view&idx=92333,
+745,2023년 강원랜드 멘토링 장학생 모집,2023-04-21,장학,,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=4&mode=view&idx=92322,
+746,2023년 서울희망대학 장학금 장학생 선발 안내,2023-04-20,장학,장학금,서울,희망,대학,장학금,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=4&mode=view&idx=92309,
+747,2023년 상반기 (재)울산연구원 장학생 선발 안내,2023-04-19,장학,선발,분야,울산,인재,우수,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=4&mode=view&idx=92301,
+748,2023년 5·18 희망장학생 선발 안내,2023-04-19,장학,,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=4&mode=view&idx=92300,
+749,2023년 상반기 강화군 대학생 등록금 지원사업 안내,2023-04-17,장학,,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=4&mode=view&idx=92283,
+750,2023학년도 1학기 한국장학재단 푸른등대 삼성기부장학금 대학 추천자 알림,2023-04-17,장학,신청,자수,대학,배정인,장학생,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=4&mode=view&idx=92279,
+751,2023-1학기 국가근로장학금 추가 신청 안내(4/24~5/8),2023-04-14,장학,국가,근로,장학금,일반,유형,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=4&mode=view&idx=92277,
+752,2023년 상반기 해운대구 장학기금 지원 안내,2023-04-11,장학,생활,청소년,의학,신장,도모,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=4&mode=view&idx=92249,
+753,2023년 상반기 (재)세종인재평생교육진흥원 장학생 선발 안내,2023-04-10,장학,신청,기간,선발,분야,세부,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=4&mode=view&idx=92222,
+754,2023학년도 1학기 한국장학재단 푸른등대 삼성기부장학금 신청 안내,2023-04-07,장학,신청,자격,학기,기준,소득,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=4&mode=view&idx=92214,
+755,2023학년도 1학기 한국장학재단 국가우수장학금(이공계) 신청 공고(3학년),2023-04-03,장학,유형,분지,내용,원대,지원기,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=4&mode=view&idx=92174,
+756,"[솔루션데스크] 2023-1학기 솔루션장학 신청안내(배려장학 ~4/14, 슬기로운 휴학생활 장학 ~4/21)",2023-04-03,장학,학년,솔루션,장학,신청,안내,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=4&mode=view&idx=92173,
+757,2023학년도 4월 장학금 지급일정 안내,2023-04-03,장학,장학,장학금,지급,일자,국가장학금,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=4&mode=view&idx=92168,
+758,2023년 9-10월 장학금 지급일정 안내,2023-09-19,장학,장학,장학금,지급,일자,국가장학금,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=5&mode=view&idx=93585,
+759,2023-2학기 대학생 청소년교육지원사업 멘토 합격자발표 및 안내자료,2023-09-15,장학,합격자,안내,문자,미수,신시,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=5&mode=view&idx=93369,
+760,2023학년도 2학기 한국장학재단 교내 국가근로 합격자발표 및 유의사항 안내,2023-08-23,장학,학년,학기,한국,장학재단,교내,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=5&mode=view&idx=93103,
+761,"★중요★ 2023학년도 2학기 한국장학재단 학자금대출(일반상환,취업후상환) 안내",2023-07-05,장학,학자금대출,필독,사항,소득,정보,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=5&mode=view&idx=92837,
+762,★중요★ 2023학년도 2학기 농촌출신대학생 학자금융자(무이자) 지원 안내,2023-07-05,장학,사업,개요,지원,목적,농어,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=5&mode=view&idx=92833,
+763,2023년 (재)수림재단 신규장학생 선발 안내,2023-03-30,장학,지원,자격,학년,학년,학년,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=5&mode=view&idx=92150,
+764,2023-1학기 대학생 청소년교육지원사업 멘토 합격자발표 및 안내자료,2023-03-29,장학,서류,제출,계절,학기,시간표,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=5&mode=view&idx=92149,
+765,2023학년도 1학기 2차(복학생대상) 장학사정관제 장학생 선발 안내,2023-03-29,장학,학년,학기,복학생,대상,장학,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=5&mode=view&idx=92148,
+766,2023-1 안산시 대학생 본인부담 등록금 반값지원 안내,2023-03-21,장학,,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=5&mode=view&idx=92071,
+767,MG희망나눔 청년주거 장학사업 청년 모집 안내,2023-03-21,장학,,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=5&mode=view&idx=92070,
+768,"2023학년도 1학기 한국장학재단 인문100년(인문사회계열), 예술체육비전(예체능계열) 장학금 사전 신청 공고(신청기간 연장)",2023-03-21,장학,유형,분지,내용,원대,계속,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=5&mode=view&idx=92069,
+769,2023년도 재단법인 논산시장학회 장학생 선발 안내,2023-03-17,장학,우리,지역,발전,기여,인재,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=5&mode=view&idx=92042,
+770,2023학년도 3월 장학금 지급일정 안내,2023-03-17,장학,장학,장학금,지급,일자,국가,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=5&mode=view&idx=92032,
+771,2023-1학기 대학생 청소년교육지원사업 멘토 선발안내(구 교·사대생 등 대학생 튜터링 사업),2023-03-14,장학,대학생,청소년,교육,지원,장학금,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=5&mode=view&idx=91956,
+772,2023년도 월곡주얼리장학생 선발 안내,2023-03-13,장학,,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=5&mode=view&idx=91935,
+773,2023학년도 1학기 한국장학재단 생활비대출 한도 변경 안내,2023-03-10,장학,,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=5&mode=view&idx=91916,
+774,2023-1학기 International College 일반근로장학생 선발 안내,2023-03-07,장학,학기,근로,장학생,선발,안내,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=5&mode=view&idx=91868,
+775,2023년도 1학기 중소기업 취업/창업 연계 장학금(희망사다리) 신규 장학생 신청 안내,2023-03-06,장학,학기,중소기업,취업,창업,장학금,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=5&mode=view&idx=91856,
+776,2023년 한국장학재단 대통령과학장학금 학생 신청 안내,2023-03-06,장학,발전,가능성,이공,미래,인재,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=5&mode=view&idx=91855,
+777,2023학년도 1학기 희망사다리 2유형(고졸후학습자) 장학금 신청안내,2023-03-06,장학,신청,기간,지원,대상,대한민국,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=5&mode=view&idx=91847,
+778,2022년 하반기분 통영시 대학생 학자금 이자 지원 공고,2023-03-03,장학,사업,지원,내용,한국,장학재단,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=5&mode=view&idx=91845,
+779,"2023학년도 1학기 동서미술실기대전, 보훈장학 관련 안내(3/2~3/17)",2023-02-28,장학,학년,도신,입생,아래,해당,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=5&mode=view&idx=91832,
+780,"2023학년도 1학기 교육·교역자, 형제·자매, 한마음장학금 온라인 신청 안내(3/2~3/17)",2023-02-28,장학,신청,경우,첨부파일,제목,한글,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=5&mode=view&idx=91831,
+781,2023년 「우아한 사장님 자녀 장학금 지원」 대학생 장학생 모집 안내(2/27~3/13),2023-02-27,장학,사장,자녀,장학금,지원,경제,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=5&mode=view&idx=91818,
+782,2023년도 충청남도인재육성재단 멘토링활동 장학생 선발 안내,2023-02-23,장학,,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=5&mode=view&idx=91805,
+783,2023년 9-10월 장학금 지급일정 안내,2023-09-19,장학,장학,장학금,지급,일자,국가장학금,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=6&mode=view&idx=93585,
+784,2023-2학기 대학생 청소년교육지원사업 멘토 합격자발표 및 안내자료,2023-09-15,장학,합격자,안내,문자,미수,신시,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=6&mode=view&idx=93369,
+785,2023학년도 2학기 한국장학재단 교내 국가근로 합격자발표 및 유의사항 안내,2023-08-23,장학,학년,학기,한국,장학재단,교내,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=6&mode=view&idx=93103,
+786,"★중요★ 2023학년도 2학기 한국장학재단 학자금대출(일반상환,취업후상환) 안내",2023-07-05,장학,학자금대출,필독,사항,소득,정보,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=6&mode=view&idx=92837,
+787,★중요★ 2023학년도 2학기 농촌출신대학생 학자금융자(무이자) 지원 안내,2023-07-05,장학,사업,개요,지원,목적,농어,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=6&mode=view&idx=92833,
+788,2023년도 충청남도인재육성재단 보금자리 장학생 선발 안내,2023-02-23,장학,,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=6&mode=view&idx=91804,
+789,2023년도 충청남도인재육성재단 재능키움 장학생 선발 안내,2023-02-23,장학,,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=6&mode=view&idx=91803,
+790,2023년 1학기 농림축산식품부 청년창업농육성장학생 추가모집 안내,2023-02-23,장학,,,,,,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=6&mode=view&idx=91802,
+791,2022학년도 2학기 동서복지장학금 지급안내,2023-02-21,장학,학년,학기,교육부,장사항,국가장학금,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=6&mode=view&idx=91759,
+792,2023학년도 1학기 교내 국가근로 합격자발표 및 학생 안내자료,2023-02-20,장학,계절,학기,시간표,수강,업무,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=6&mode=view&idx=91758,
+793,2023년 협성 드립trip 해외탐방 13기 모집 알림,2023-02-16,장학,협성,문화재단,청년,해외,탐방,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=6&mode=view&idx=91723,
+794,2023-1학기 교내근로(등록휴학생) 봉사장학생 모집 안내(모집종료),2023-02-16,장학,학년,학기,등록,휴학생,학기,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=6&mode=view&idx=91722,
+795,2022학년도 2월 장학금 지급일정 안내,2023-02-16,장학,장학,장학금,지급,일자,국가,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=6&mode=view&idx=91721,
+796,★중요★ 2023-1학기 국가장학금 2차 신청 안내(2/2~3/15),2023-02-01,장학,편입,사항,수업료,포함,입학,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=6&mode=view&idx=91585,
+797,재단법인 플라톤 아카데미 인문 지혜 장학생 판플러스(PAN+) 해외 경험 장학생 모집 안내,2023-01-31,장학,해외,경험,장학생,모집,안내,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=6&mode=view&idx=91570,
+798,2023학년도 1학기 교내 국가근로 희망근로지 사전신청 안내★근로지 현황★,2023-01-31,장학,학년,학기,국가,근로,희망,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=6&mode=view&idx=91555,
+799,2022년 하반기 인천광역시 학자금 대출 이자지원 사업 안내,2023-01-26,장학,사업,지원,내용,학기,한국,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=6&mode=view&idx=91527,
+800,★중요★ 2023-1학기 2차 국가근로장학금 신청 안내(2/2-3/15),2023-01-25,장학,신청,기간,주말,공휴일,포함,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=6&mode=view&idx=91510,
+801,2022년 하반기 군산시 대학생 학자금 대출 이자지원 공고,2023-01-12,장학,군산시,관내,주소,학생,경제,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=6&mode=view&idx=91413,
+802,2023년 한국장학재단 창업지원형 기숙사 입주생 모집 신청 안내(~1/11),2023-01-09,장학,지원,대상,대한민국,국적,소지,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=6&mode=view&idx=91387,
+803,"★중요★ 2023학년도 1학기 한국장학재단 학자금대출(일반상환,취업후상환) 안내",2023-01-04,장학,학자금대출,필독,사항,소득,정보,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=6&mode=view&idx=91363,
+804,2023년 KRX DREAM 대학생 장학생 선발 안내,2023-01-03,장학,국민,행복,재단,한국,거래소,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=6&mode=view&idx=91356,
+805,2022학년도 1월 장학금 지급일정 안내,2023-01-03,장학,장학,장학금,지급,일자,부산,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=6&mode=view&idx=91355,
+806,★중요★ 2023년 1학기 농촌출신대학생 학자금융자(무이자) 지원 안내,2023-01-02,장학,사업,개요,지원,목적,농어,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=6&mode=view&idx=91344,
+807,2023년 상반기 경기도 대학생 학자금 대출이자 지원 공고,2023-01-02,장학,신청,기간,지원,대상,본인,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=6&mode=view&idx=91343,
+808,2023년 9-10월 장학금 지급일정 안내,2023-09-19,장학,장학,장학금,지급,일자,국가장학금,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=7&mode=view&idx=93585,
+809,2023-2학기 대학생 청소년교육지원사업 멘토 합격자발표 및 안내자료,2023-09-15,장학,합격자,안내,문자,미수,신시,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=7&mode=view&idx=93369,
+810,2023학년도 2학기 한국장학재단 교내 국가근로 합격자발표 및 유의사항 안내,2023-08-23,장학,학년,학기,한국,장학재단,교내,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=7&mode=view&idx=93103,
+811,"★중요★ 2023학년도 2학기 한국장학재단 학자금대출(일반상환,취업후상환) 안내",2023-07-05,장학,학자금대출,필독,사항,소득,정보,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=7&mode=view&idx=92837,
+812,★중요★ 2023학년도 2학기 농촌출신대학생 학자금융자(무이자) 지원 안내,2023-07-05,장학,사업,개요,지원,목적,농어,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=7&mode=view&idx=92833,
+813,2023년 9-10월 장학금 지급일정 안내,2023-09-19,장학,장학,장학금,지급,일자,국가장학금,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=8&mode=view&idx=93585,
+814,2023-2학기 대학생 청소년교육지원사업 멘토 합격자발표 및 안내자료,2023-09-15,장학,합격자,안내,문자,미수,신시,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=8&mode=view&idx=93369,
+815,2023학년도 2학기 한국장학재단 교내 국가근로 합격자발표 및 유의사항 안내,2023-08-23,장학,학년,학기,한국,장학재단,교내,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=8&mode=view&idx=93103,
+816,"★중요★ 2023학년도 2학기 한국장학재단 학자금대출(일반상환,취업후상환) 안내",2023-07-05,장학,학자금대출,필독,사항,소득,정보,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=8&mode=view&idx=92837,
+817,★중요★ 2023학년도 2학기 농촌출신대학생 학자금융자(무이자) 지원 안내,2023-07-05,장학,사업,개요,지원,목적,농어,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=8&mode=view&idx=92833,
+818,2023년 9-10월 장학금 지급일정 안내,2023-09-19,장학,장학,장학금,지급,일자,국가장학금,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=9&mode=view&idx=93585,
+819,2023-2학기 대학생 청소년교육지원사업 멘토 합격자발표 및 안내자료,2023-09-15,장학,합격자,안내,문자,미수,신시,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=9&mode=view&idx=93369,
+820,2023학년도 2학기 한국장학재단 교내 국가근로 합격자발표 및 유의사항 안내,2023-08-23,장학,학년,학기,한국,장학재단,교내,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=9&mode=view&idx=93103,
+821,"★중요★ 2023학년도 2학기 한국장학재단 학자금대출(일반상환,취업후상환) 안내",2023-07-05,장학,학자금대출,필독,사항,소득,정보,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=9&mode=view&idx=92837,
+822,★중요★ 2023학년도 2학기 농촌출신대학생 학자금융자(무이자) 지원 안내,2023-07-05,장학,사업,개요,지원,목적,농어,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=9&mode=view&idx=92833,
+823,2023년 9-10월 장학금 지급일정 안내,2023-09-19,장학,장학,장학금,지급,일자,국가장학금,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=10&mode=view&idx=93585,
+824,2023-2학기 대학생 청소년교육지원사업 멘토 합격자발표 및 안내자료,2023-09-15,장학,합격자,안내,문자,미수,신시,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=10&mode=view&idx=93369,
+825,2023학년도 2학기 한국장학재단 교내 국가근로 합격자발표 및 유의사항 안내,2023-08-23,장학,학년,학기,한국,장학재단,교내,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=10&mode=view&idx=93103,
+826,"★중요★ 2023학년도 2학기 한국장학재단 학자금대출(일반상환,취업후상환) 안내",2023-07-05,장학,학자금대출,필독,사항,소득,정보,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=10&mode=view&idx=92837,
+827,★중요★ 2023학년도 2학기 농촌출신대학생 학자금융자(무이자) 지원 안내,2023-07-05,장학,사업,개요,지원,목적,농어,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000195&pg=10&mode=view&idx=92833,
+828,[입찰] 기자재(미디어콘텐츠대학 PC) 구입,2023-09-18,입찰,동서대학교,구매,입찰,공고,입찰,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=1&mode=view&idx=93383,
+829,[입찰] 기자재(임권택영화예술대학 PC) 구입,2023-09-18,입찰,동서대학교,구매,입찰,공고,입찰,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=1&mode=view&idx=93381,
+830,[입찰] 연구용 기자재(고속카메라 스트리밍 시스템) 구입,2023-09-06,입찰,동서대학교,산학,협력,입찰,공고,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=1&mode=view&idx=93231,
+831,[입찰] 연구용 기자재(형광도립현미경) 구입,2023-09-06,입찰,동서대학교,산학,협력,입찰,공고,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=1&mode=view&idx=93230,
+832,[재입찰] 네트워크 보안 인프라 개선,2023-08-31,입찰,동서대학교,구매,호재,입찰,공고,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=1&mode=view&idx=93163,
+833,[입찰] 현장중심 교육 운영지원 소프트웨어 구입,2023-08-29,입찰,동서대학교,구매,입찰,공고,입찰,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=1&mode=view&idx=93134,
+834,[재입찰] 기자재(휴대용 고해상도 3D 스캐너) 구입,2023-08-28,입찰,동서대학교,산학,협력,호재,입찰,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=1&mode=view&idx=93117,
+835,[입찰] 전공교육과정혁신 실험실습재료(MRO) 단가 구매,2023-08-23,입찰,동서대학교,구매,입찰,공고,입찰,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=1&mode=view&idx=93102,
+836,[입찰] 실험실습기자재(스피커 외 21종) 구입,2023-08-16,입찰,동서대학교,구매,입찰,공고,입찰,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=1&mode=view&idx=93061,
+837,[입찰] 실험실습기자재(카메라 외 14종) 구입,2023-08-16,입찰,동서대학교,구매,입찰,공고,입찰,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=1&mode=view&idx=93060,
+838,[입찰] 기자재(휴대용 고해상도 3D 스캐너) 구입,2023-08-16,입찰,동서대학교,산학,협력,입찰,공고,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=1&mode=view&idx=93054,
+839,[입찰] 기자재(미디어 파사드 구현 시스템) 구입,2023-08-16,입찰,동서대학교,산학,협력,입찰,공고,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=1&mode=view&idx=93053,
+840,[입찰] 실험실습기자재(VR 트래커 & 녹화시스템) 구입,2023-08-14,입찰,동서대학교,산학,협력,입찰,공고,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=1&mode=view&idx=93040,
+841,[입찰] 실험실습기자재(액정태플릿) 구입,2023-08-14,입찰,동서대학교,구매,입찰,공고,입찰,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=1&mode=view&idx=93039,
+842,[입찰] 네트워크 보안 인프라 개선,2023-08-10,입찰,동서대학교,구매,입찰,공고,입찰,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=1&mode=view&idx=93011,
+843,[재입찰] 정맥주사모형 외 10종 구입,2023-07-28,입찰,동서대학교,구매,호재,입찰,공고,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=1&mode=view&idx=92978,
+844,[입찰] 2023-2학기 정부초청장학생 입국항공권 구매,2023-07-27,입찰,동서대학교,구매,입찰,공고,입찰,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=1&mode=view&idx=92969,
+845,[입찰] 네트워크 인프라 개선,2023-07-27,입찰,동서대학교,구매,입찰,공고,입찰,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=1&mode=view&idx=92967,
+846,[입찰취소] 실험실습기자재(스피커 외 21종) 구입,2023-07-27,입찰,동서대학교,구매,입찰,취소,공고,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=1&mode=view&idx=92966,
+847,[입찰취소] 실험실습기자재(카메라 외 14종) 구입,2023-07-27,입찰,동서대학교,구매,입찰,취소,공고,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=1&mode=view&idx=92965,
+848,[입찰] 2023년 동서대학교 온라인 강의 콘텐츠 개발용역,2023-07-21,입찰,동서대학교,구매,입찰,공고,입찰,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=2&mode=view&idx=92931,
+849,[입찰] 순환식 체력검사 측정장비 제작 구매,2023-07-21,입찰,동서대학교,구매,입찰,공고,입찰,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=2&mode=view&idx=92929,
+850,[입찰] 실험실습기자재(International College PC) 구입,2023-07-20,입찰,동서대학교,구매,입찰,공고,입찰,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=2&mode=view&idx=92925,
+851,[입찰] 세포수측정기 구입,2023-07-20,입찰,동서대학교,구매,입찰,공고,입찰,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=2&mode=view&idx=92921,
+852,[입찰] 생화학분석기 구입,2023-07-20,입찰,동서대학교,구매,입찰,공고,입찰,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=2&mode=view&idx=92920,
+853,[입찰] 학습관리시스템(LMS) 클라우드 구축 및 서비스 운영 용역,2023-07-19,입찰,동서대학교,구매,입찰,공고,입찰,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=2&mode=view&idx=92915,
+854,[입찰] POLAR H10 스트립 외 13종 구입,2023-07-19,입찰,동서대학교,구매,입찰,공고,입찰,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=2&mode=view&idx=92914,
+855,[입찰] 정맥주사모형 외 10종 구입,2023-07-19,입찰,동서대학교,구매,입찰,공고,입찰,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=2&mode=view&idx=92913,
+856,[입찰] 실험실습기자재(콘텐츠 제작 드로잉) 구입,2023-07-18,입찰,동서대학교,산학,협력,입찰,공고,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=2&mode=view&idx=92908,
+857,[입찰] 실험실습기자재(빅데이터 PC) 구입,2023-07-18,입찰,동서대학교,산학,협력,입찰,공고,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=2&mode=view&idx=92907,
+858,[입찰] 실험실습기자재(멀티미디어 PC) 구입,2023-07-14,입찰,동서대학교,산학,협력,입찰,공고,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=2&mode=view&idx=92900,
+859,[입찰] 실험실습기자재(건축 디자인 PC) 구입,2023-07-14,입찰,동서대학교,산학,협력,입찰,공고,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=2&mode=view&idx=92899,
+860,[입찰] 실험실습기자재(프린터) 구입,2023-07-14,입찰,동서대학교,구매,입찰,공고,입찰,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=2&mode=view&idx=92896,
+861,[입찰] 실험실습기자재(빔프로젝트) 구입,2023-07-14,입찰,동서대학교,구매,입찰,공고,입찰,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=2&mode=view&idx=92895,
+862,[입찰] 실험실습기자재(컴퓨터공학과 PC) 구입,2023-07-12,입찰,동서대학교,구매,입찰,공고,입찰,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=2&mode=view&idx=92879,
+863,[입찰] 실험실습기자재(정보보안과 PC) 구입,2023-07-12,입찰,동서대학교,구매,입찰,공고,입찰,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=2&mode=view&idx=92878,
+864,[입찰] 동남권 LINC 3.0 사업단 산업체 재직자 직무역량 강화사업,2023-07-12,입찰,동서대학교,산학,협력,입찰,공고,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=2&mode=view&idx=92877,
+865,[입찰] 실험실습기자재(건축공학과 PC) 구입,2023-07-11,입찰,동서대학교,구매,입찰,공고,입찰,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=2&mode=view&idx=92873,
+866,[입찰] 실험실습기자재(고사양 PC) 구입,2023-07-11,입찰,동서대학교,구매,입찰,공고,입찰,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=2&mode=view&idx=92872,
+867,[입찰] 일학습병행 첨단산업아카데미 훈련장비(PC) 구입,2023-06-20,입찰,동서대학교,구매,입찰,공고,입찰,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=2&mode=view&idx=92745,
+868,[입찰] SW중심대학사업단 실습장비(PC) 구입,2023-06-13,입찰,동서대학교,구매,입찰,공고,입찰,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=3&mode=view&idx=92694,
+869,[입찰] 졸업생 / 취업기업 / 지역사회 조사 용역,2023-06-13,입찰,동서대학교,구매,입찰,공고,입찰,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=3&mode=view&idx=92688,
+870,[입찰] 혁신창업실험실 사전기획(BM고도화) 및 후속 컨설팅 용역,2023-06-02,입찰,동서대학교,산학,협력,입찰,공고,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=3&mode=view&idx=92618,
+871,[입찰] 2023년 동서대학교 한국형 온라인 공개강좌(K-MOOC) 콘텐츠 개발 용역,2023-05-02,입찰,동서대학교,구매,입찰,공고,입찰,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=3&mode=view&idx=92387,
+872,[입찰] SW중심대학사업단 실습장비 구입,2023-04-20,입찰,동서대학교,구매,입찰,공고,입찰,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=3&mode=view&idx=92307,
+873,[입찰] 홍보 기념품 구입,2023-04-14,입찰,동서대학교,구매,입찰,공고,입찰,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=3&mode=view&idx=92269,
+874,[입찰] 2023년도 동서대학교도서관 국내전자책 구매사업,2023-04-14,입찰,동서대학교,구매,입찰,공고,입찰,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=3&mode=view&idx=92268,
+875,[입찰] 동서대학교 민석축제 행사 용역,2023-03-28,입찰,동서대학교,민석,축제,행사,용역,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=3&mode=view&idx=92126,
+876,[입찰] 연구용 기자재(구강스캐너 외 3종) 구입,2023-03-21,입찰,동서대학교,산학,협력,입찰,공고,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=3&mode=view&idx=92066,
+877,[입찰] 학생지원 강의실 기자재 구입,2023-03-15,입찰,동서대학교,구매,입찰,공고,입찰,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=3&mode=view&idx=92008,
+878,[입찰] 전공교육과정혁신 운영지원 소프트웨어(9종) 구입,2023-03-13,입찰,동서대학교,구매,입찰,공고,입찰,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=3&mode=view&idx=91922,
+879,[입찰] 전공교육과정혁신 실험실습재료(MRO) 단가 구매,2023-03-09,입찰,동서대학교,구매,입찰,공고,입찰,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=3&mode=view&idx=91899,
+880,[입찰} 산학협력관 하이브리드 강의실 구축 기자재 구입,2023-03-06,입찰,동서대학교,구매,입찰,공고,입찰,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=3&mode=view&idx=91854,
+881,[입찰] 미디어아트실습실 PC 구입,2023-02-28,입찰,동서대학교,산학,협력,입찰,공고,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=3&mode=view&idx=91828,
+882,[재입찰] 원격수업 ZOOM License 구입,2023-02-22,입찰,동서대학교,구매,입찰,공고,입찰,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=3&mode=view&idx=91774,
+883,[입찰] 2023년 동서대학교 외부행사 버스임차 용역,2023-02-20,입찰,동서대학교,구매,입찰,공고,입찰,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=3&mode=view&idx=91745,
+884,[입찰] 콘텐츠관리시스템(CMS) 연동 CDN 서비스 용역,2023-02-13,입찰,동서대학교,구매,입찰,공고,입찰,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=3&mode=view&idx=91657,
+885,[입찰] 학습관리시스템(LMS) 클라우드 구축 및 서비스 운영 용역,2023-02-13,입찰,동서대학교,구매,입찰,공고,입찰,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=3&mode=view&idx=91656,
+886,[입찰] 원격수업 ZOOM License 구입,2023-02-13,입찰,동서대학교,구매,입찰,공고,입찰,https://www.dongseo.ac.kr/kr/index.php?pCode=MN2000196&pg=3&mode=view&idx=91655,
