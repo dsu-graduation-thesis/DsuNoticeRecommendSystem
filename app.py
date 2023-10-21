@@ -5,6 +5,7 @@ from sklearn.metrics.pairwise import linear_kernel
 from flask_cors import CORS
 
 app = Flask(__name__)
+CORS(app)
 #CORS(app, resources={r"/recommend": {"origins": "http://localhost:5000"}})
 
 @app.route('/hello',methods=['GET'])
