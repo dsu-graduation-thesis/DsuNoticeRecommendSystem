@@ -1,12 +1,31 @@
-from flask import Flask, request, jsonify
 import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+from ast import literal_eval
 from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.metrics.pairwise import linear_kernel
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
+from flask import Flask, request, jsonify
 from flask_cors import CORS
-
+import json
 app = Flask(__name__)
 CORS(app)
 #CORS(app, resources={r"/recommend": {"origins": "http://localhost:5000"}})
+
+def genre_recommendations(target_title, matrix, items, k=10):
+    recom_idx = matrix.loc[:, target_title].values.reshape(1, -1).argsort()[:, ::-1].flatten()[1:k+1]
+    recom_title = items.iloc[recom_idx, :].title.values
+    recom_genre = items.iloc[recom_idx, :].genres.values
+    target_title_list = np.full(len(range(k)), target_title)
+    target_genre_list = np.full(len(range(k)), items[items.title == target_title].genres.values)
+    d = {
+        'target_title':target_title_list,
+        'target_genre':target_genre_list,
+        'recom_title' : recom_title,
+        'recom_genre' : recom_genre
+    }
+    return pd.DataFrame(d).to_dict(orient='records')
 
 @app.route('/hello',methods=['GET'])
 def hello():
@@ -56,40 +75,27 @@ def recommend_posts():
 
         # TF-IDF 벡터화
         tfidf_vectorizer = TfidfVectorizer()
-        tfidf_matrix = tfidf_vectorizer.fit_transform(post_data['genres'] + " " + post_data['keyword1'] + " " + post_data['keyword2'] + " " + post_data['keyword3'] + " " + post_data['keyword4'] + " " + post_data['keyword5'])
+        tfidf_matrix = tfidf_vectorizer.fit_transform(post_data['genres'] + " " + post_data['keyword1'] + " " + post_data['keyword2'] + " " + post_data['keyword3'] + " " + post_data['keyword4'] + " " + post_data['keyword5']).toarray()
+        
+        tfidf_matrix_feature = tfidf_vectorizer.get_feature_names_out()
 
-        # 입력키워드 벡터화
-        user_keyword = userProfile_name
-        user_keyword_tfidf = tfidf_vectorizer.transform([user_keyword])
+        tfidf_matrix = pd.DataFrame(tfidf_matrix, columns=tfidf_matrix_feature, index = post_data.title)
 
-        # 코사인 유사도 계산
-        cosine_similarities = linear_kernel(user_keyword_tfidf, tfidf_matrix).flatten()
-       
-        num_recommendations = 7
+        #print(tfidf_matrix)
 
-        # 추천 게시물 인덱스
-        most_similar_indices = cosine_similarities.argsort()[:-num_recommendations-1:-1]  # Get the top 3 most similar posts
+        cosine_sim = cosine_similarity(tfidf_matrix)
+        #print(cosine_sim.shape)
 
-        # 출력
-        recommend_posts = {}
-        print("가장 유사한 게시물 3개:")
-        for i, idx in enumerate(most_similar_indices):
-            arr = {}
-            similar_post_title = post_data['title'].iloc[idx]
-            similar_post_genre = post_data['genres'].iloc[idx]
-            similar_post_keywords = ", ".join(post_data[['keyword1', 'keyword2', 'keyword3', 'keyword4', 'keyword5']].iloc[idx])
-            print(f"{i+1}. 제목: {similar_post_title}")
-            print(f"   장르: {similar_post_genre}")
-            print(f"   키워드: {similar_post_keywords}")
-            print()
-            arr["제목"] = similar_post_title
-            arr["장르"] = similar_post_genre
-            arr["키워드"] = similar_post_keywords
-            recommend_posts[i] = arr
-        print(recommend_posts)
-        post_data.drop(index=post_data.index[-1],axis=0,inplace=True)
-        return jsonify({'recommended_posts': recommend_posts})
-    
+        cosine_sim_df = pd.DataFrame(cosine_sim, index = post_data.title, columns = post_data.title)
+        #print(cosine_sim_df.shape)
+        #print(cosine_sim_df.head())
+        result_json = genre_recommendations(userProfile_name, cosine_sim_df, post_data)
+        #decoded_result = json.loads(result_json)
+        #result_json = json.dumps(decoded_result, ensure_ascii=False, indent=4)
+        print(result_json)
+        
+        return json.dumps(result_json, ensure_ascii=False)
+        
     except Exception as e:
         return jsonify({'error': str(e)})
 
