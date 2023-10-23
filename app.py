@@ -17,13 +17,15 @@ def genre_recommendations(target_title, matrix, items, k=10):
     recom_idx = matrix.loc[:, target_title].values.reshape(1, -1).argsort()[:, ::-1].flatten()[1:k+1]
     recom_title = items.iloc[recom_idx, :].title.values
     recom_genre = items.iloc[recom_idx, :].genres.values
+    recom_link = items.iloc[recom_idx, :].link.values
     target_title_list = np.full(len(range(k)), target_title)
     target_genre_list = np.full(len(range(k)), items[items.title == target_title].genres.values)
     d = {
         'target_title':target_title_list,
         'target_genre':target_genre_list,
         'recom_title' : recom_title,
-        'recom_genre' : recom_genre
+        'recom_genre' : recom_genre,
+        'recom_link' : recom_link
     }
     return pd.DataFrame(d).to_dict(orient='records')
 
